@@ -1,0 +1,1456 @@
+{
+    "Arizona": {
+      "Phoenix": [
+        {
+          "name": "Mayor Kate Gallego",
+          "email": "mayor.gallego@phoenix.gov"
+        },
+        {
+          "name": "Vice Mayor Betty Guardado",
+          "email": "council.district.5@phoenix.gov"
+        },
+        {
+          "name": "Councilmember Thelda Williams",
+          "email": "council.district.1@phoenix.gov"
+        },
+        {
+          "name": "Councilman Jim Waring",
+          "email": "council.district.2@phoenix.gov"
+        },
+        {
+          "name": "Councilmember Debra Stark",
+          "email": "council.district.3@phoenix.gov"
+        },
+        {
+          "name": "Councilmember Laura Pastor",
+          "email": "council.district.4@phoenix.gov"
+        },
+        {
+          "name": "Councilmember Sal DiCiccio",
+          "email": "council.district.6@phoenix.gov"
+        },
+        {
+          "name": "Councilmember Michael Nowakowski",
+          "email": "council.district.7@phoenix.gov"
+        },
+        {
+          "name": "Councilmember Carlos Garcia",
+          "email": "council.district.8@phoenix.gov"
+        }
+      ],
+      "Tuscon": [
+        {
+          "name": "Mayor Regina Romero",
+          "email": "Mayor.Romero@tucsonaz.gov"
+        },
+        {
+          "name": "Vice Mayor Steve Kozachik",
+          "email": "ward6@tucsonaz.gov"
+        },
+        {
+          "name": "Councilmember Lane Santa Cruz",
+          "email": "ward1@tucsonaz.gov"
+        },
+        {
+          "name": "Councilmember Paul Cunningham",
+          "email": "ward2@tucsonaz.gov"
+        },
+        {
+          "name": "Councilmember Paul Durham",
+          "email": "ward3@tucsonaz.gov"
+        },
+        {
+          "name": "Councilmember Nikki Lee",
+          "email": "ward4@tucsonaz.gov"
+        },
+        {
+          "name": "Councilmember Richard Fimbres",
+          "email": "ward5@tucsonaz.gov"
+        }
+      ]
+    },
+    "California": {
+      "Alameda": [
+        {
+          "name": "Mayor Marilyn Ezzy Ashcraft",
+          "email": "mezzyashcraft@alamedaca.gov"
+        },
+        {
+          "name": "Vice Mayor John Knox White",
+          "email": "jknoxwhite@alamedaca.gov"
+        },
+        {
+          "name": "Councilmember Tony Daysog",
+          "email": "tdaysog@alamedaca.gov"
+        },
+        {
+          "name": "Councilmember Jim Oddie",
+          "email": "joddie@alamedaca.gov"
+        },
+        {
+          "name": "Councilmember Malia Vella",
+          "email": "mvella@alamedaca.gov"
+        },
+        {
+          "name": "District Attorney Nancy E. O’Malley",
+          "email": "info@alcoda.org"
+        }
+      ],
+      "Bakersfield": [
+        {
+          "name": "Mayor Karen Goh",
+          "email": "Mayor@bakersfieldcity.us"
+        },
+        {
+          "name": "Councilmembers",
+          "email": "City_Council@bakersfieldcity.us"
+        }
+      ],
+      "Fresno": [
+        {
+          "name": "Mayor Lee Brand",
+          "email": "lee.brand@fresno.gov"
+        },
+        {
+          "name": "Councilmember Esmeralda Soria",
+          "email": "esmeralda.soria@fresno.gov"
+        },
+        {
+          "name": "Councilmember Miguel Arias",
+          "email": "miguel.arias@fresno.gov"
+        },
+        {
+          "name": "Councilmember Paul Caprioglio",
+          "email": "paul.capriogolio@fresno.gov"
+        },
+        {
+          "name": "Councilmember Luis Chavez",
+          "email": "luis.chavez@fresno.gov"
+        },
+        {
+          "name": "Councilmember Garry Bredefeld",
+          "email": "garry.bredefeld@fresno.gov"
+        },
+        {
+          "name": "Councilmember Nelson Esparza",
+          "email": "nelson.esparza@fresno.gov"
+        },
+        {
+          "name": "City Manager Wilma Quan",
+          "email": "wilma.quan@fresno.gov"
+        }
+      ],
+      "Los Angeles": [
+        {
+          "name": "Mayor Eric Garcetti",
+          "email": "mayor.helpdesk@lacity.org"
+        },
+        {
+          "name": "City Attorney Mike Feuer",
+          "email": "mayor.garcetti@lacity.org"
+        },
+        {
+          "name": "Councilmember Nury Martinez",
+          "email": "councilmember.martinez@lacity.org"
+        },
+        {
+          "name": "Councilmember Gil Cedillo",
+          "email": "councilmember.cedillo@lacity.org"
+        },
+        {
+          "name": "Councilmember Paul Krekorian",
+          "email": "councilmember.Krekorian@lacity.org"
+        },
+        {
+          "name": "Councilmember Bob Blumenfield",
+          "email": "councilmember.blumenfield@lacity.org"
+        },
+        {
+          "name": "Councilmember David E. Ryu",
+          "email": "david.ryu@lacity.org"
+        },
+        {
+          "name": "LA Board of Police Commissioners",
+          "email": "policecommission@lapd.online"
+        }
+      ],
+      "Oakland": [
+        {
+          "name": "Mayor Libby Schaaf",
+          "email": "officeofthemayor@oaklandnet.com"
+        },
+        {
+          "name": "Ethics Commission",
+          "email": "ethicscommission@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Dan Kalb",
+          "email": "dkalb@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Rebecca Kaplan",
+          "email": "rkaplan@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Nikki Fortunato Bas",
+          "email": "nfbas@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Lynette Gibson McElhaney",
+          "email": "LMcElhaney@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Sheng Thao",
+          "email": "district4@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Loren Taylor",
+          "email": "District6@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Noel Gallo",
+          "email": "Ngallo@oaklandca.gov"
+        },
+        {
+          "name": "Councilmember Larry Reid",
+          "email": "lreid@oaklandnet.com"
+        }
+      ],
+      "Orange County": [
+        {
+          "name": "Supervisor Michelle Steel",
+          "email": "Michelle.Steel@ocgov.com"
+        },
+        {
+          "name": "Supervisor Andrew Do",
+          "email": "Andrew.Do@ocgov.com"
+        },
+        {
+          "name": "Supervisor Donald P. Wagner",
+          "email": "Donald.Wagner@ocgov.com"
+        },
+        {
+          "name": "Supervisor Doug Chaffee",
+          "email": "Fourth.District@ocgov.com"
+        },
+        {
+          "name": "Supervisor Lisa Bartlett",
+          "email": "Lisa.Bartlett@ocgov.com"
+        },
+        {
+          "name": "Todd Spitzer",
+          "email": "media@da.ocgov.com"
+        }
+      ],
+      "Sacramento": [
+        {
+          "name": "Mayor Darrell Steinberg",
+          "email": "MayorSteinberg@cityofsacramento.org"
+        },
+        {
+          "name": "Vice Mayor Jeff Harris",
+          "email": "jsharris@cityofsacramento.org"
+        },
+        {
+          "name": "David Gonsalves",
+          "email": "dgonsalves@cityofsacramento.org"
+        },
+        {
+          "name": "Jocelyn Navarro",
+          "email": "jonavarro@cityofsacramento.org"
+        },
+        {
+          "name": "Councilmember Angelique Ashby",
+          "email": "aashby@cityofsacramento.org"
+        },
+        {
+          "name": "Councilmember Allen Wayne Warren",
+          "email": "awarren@cityofsacramento.org"
+        },
+        {
+          "name": "Councilmember Steve Hansen",
+          "email": "SHansen@cityofsacramento.org"
+        },
+        {
+          "name": "Councilmember Jay Schenirer",
+          "email": "jschenirer@cityofsacramento.org"
+        },
+        {
+          "name": "Councilmember Rick Jennings",
+          "email": "rjennings@cityofsacramento.org"
+        },
+        {
+          "name": "Councilmember Larry Carr",
+          "email": "lcarr@cityofsacramento.org"
+        },
+        {
+          "name": "Supervisor Phil Serna",
+          "email": "SupervisorSerna@saccounty.net"
+        },
+        {
+          "name": "Supervisor Patrick Kennedy",
+          "email": "SupervisorKennedy@saccounty.net"
+        },
+        {
+          "name": "Mayor Cabaldon",
+          "email": "christopherc@cityofwestsacramento.org"
+        },
+        {
+          "name": "Councilmember Quirina Orozco",
+          "email": "quirinao@cityofwestsacramento.org"
+        },
+        {
+          "name": "Councilmember Chris Ledesma",
+          "email": "chrisl@cityofwestsacramento.org"
+        },
+        {
+          "name": "Councilmember Martha Guerrero",
+          "email": "mguerrero@cityofwestsacramento.org"
+        },
+        {
+          "name": "Mayor Pro Tem Beverly Sandeen",
+          "email": "beverlys@cityofwestsacramento.org"
+        }
+      ],
+      "San Diego": [
+        {
+          "name": "Mayor Kevin Faulconer",
+          "email": "kevinfaulconer@sandiego.gov"
+        },
+        {
+          "name": "Council President Barbara Bry",
+          "email": "barbarabry@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Jennifer Campbell",
+          "email": "jennifercampbell@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Chris Ward",
+          "email": "christopherward@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Monica Montgomery",
+          "email": "monicamontgomery@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Mark Kersey",
+          "email": "markkersey@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Chris Cate",
+          "email": "chriscate@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Scott Sherman",
+          "email": "scottsherman@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Vivian Moreno",
+          "email": "vivianmoreno@sandiego.gov"
+        },
+        {
+          "name": "Councilmember Georgette Gomez",
+          "email": "georgettegomez@sandiego.gov"
+        }
+      ],
+      "San Francisco": [
+        {
+          "name": "Mayor London N. Breed",
+          "email": "MayorLondonBreed@sfgov.org"
+        },
+        {
+          "name": "Supervisor Matt Haney",
+          "email": "Matt.Haney@sfgov.org"
+        },
+        {
+          "name": "Supervisor Rafael Mandelman",
+          "email": "MandelmanStaff@sfgov.org"
+        },
+        {
+          "name": "Supervisor Gordon Mar",
+          "email": "Gordon.Mar@sfgov.org"
+        },
+        {
+          "name": "Supervisor Aaron Peskin",
+          "email": "Aaron.Peskin@sfgov.org"
+        },
+        {
+          "name": "Supervisor Dean Preston",
+          "email": "Dean.Preston@sfgov.org"
+        },
+        {
+          "name": "Supervisor Sandra Lee Fewer",
+          "email": "sandra.fewer@sfgov.org"
+        },
+        {
+          "name": "Supervisor Hillary Ronen",
+          "email": "Hillary.Ronen@sfgov.org"
+        },
+        {
+          "name": "Supervisor Ahsha Safai",
+          "email": "Ahsha.Safai@sfgov.org"
+        },
+        {
+          "name": "Supervisor Catherine Stefani",
+          "email": "Catherine.Stefani@sfgov.org"
+        },
+        {
+          "name": "Supervisor Shamann Walton",
+          "email": "Shamann.Walton@sfgov.org"
+        },
+        {
+          "name": "Supervisor Norman Yee",
+          "email": "Norman.Yee@sfgov.org"
+        },
+        {
+          "name": "San Francisco Police Commission",
+          "email": "sfpd.commission@sfgov.org"
+        }
+      ],
+      "San Jose": [
+        {
+          "name": "Mayor Sam Liccardo",
+          "email": "mayoremail@sanjoseca.gov"
+        },
+        {
+          "name": "Vice Mayor Charles Jones",
+          "email": "District1@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Sergio Jimenez",
+          "email": "District2@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Raul Peralez",
+          "email": "District3@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Lan Diep",
+          "email": "District4@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Magdalena Carrasco",
+          "email": "District5@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Devora Davis",
+          "email": "District6@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Maya Esparza",
+          "email": "District7@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Sylvia Arenas",
+          "email": "District8@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Pam Foley",
+          "email": "District9@sanjoseca.gov"
+        },
+        {
+          "name": "Councilmember Johnny Khamis",
+          "email": "District10@sanjoseca.gov"
+        }
+      ],
+      "Santa Clara": [
+        {
+          "name": "Mayor Lisa Gillmore",
+          "email": "lgillmor@santaclaraca.gov"
+        },
+        {
+          "name": "Vice Mayor Karen Hardy",
+          "email": "khardy@santaclaraca.gov"
+        },
+        {
+          "name": "Councilmember Kathy Watanabe",
+          "email": "kwatanabe@santaclaraca.gov"
+        },
+        {
+          "name": "Councilmember Raj Chahal",
+          "email": "rchahal@santaclaraca.gov"
+        },
+        {
+          "name": "Councilmember Teresa O'Neill",
+          "email": "toneill@santaclaraca.gov"
+        },
+        {
+          "name": "Councilmember Karen Hardy",
+          "email": "khardy@santaclaraca.gov"
+        },
+        {
+          "name": "Councilmember Debbie Davis",
+          "email": "ddavis@santaclaraca.gov"
+        },
+        {
+          "name": "City Attorney Brian Doyle",
+          "email": "CityAttorney@santaclaraca.gov"
+        }
+      ]
+    },
+    "District of Columbia": {
+      "DC": [
+        {
+          "name": "Mayor Muriel Bowser",
+          "email": "eom@dc.gov"
+        },
+        {
+          "name": "Chairman Phil Mendelson",
+          "email": "pmendelson@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Kenyan McDuffie",
+          "email": "kmcduffie@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Anita Bonds",
+          "email": "abonds@dccouncil.us"
+        },
+        {
+          "name": "Councilmember David Grosso",
+          "email": "dgrosso@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Robert White",
+          "email": "rwhite@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Elissa Silverman",
+          "email": "esilverman@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Brianne Nadeau",
+          "email": "bnadeau@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Mary Cheh",
+          "email": "mcheh@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Brandon Todd",
+          "email": "btodd@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Charles Allen",
+          "email": "callen@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Vincent Gray",
+          "email": "vgray@dccouncil.us"
+        },
+        {
+          "name": "Councilmember Trayon White",
+          "email": "twhite@dccouncil.us"
+        }
+      ]
+    },
+    "Georgia": {
+      "Atlanta": [
+        {
+          "name": "Mayor Keisha Lance Bottoms",
+          "email": "kbottoms@atlantaga.gov"
+        },
+        {
+          "name": "Council President Felicia A. Moore",
+          "email": "fmoore@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Carla Smith",
+          "email": "csmith@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Amir R. Farokhi",
+          "email": "arfarokhi@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Antonio Brown",
+          "email": "antoniobrown@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Cleta Winslow",
+          "email": "cwinslow@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Natalyn Archibong",
+          "email": "narchibong@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Jennifer N. Ide",
+          "email": "jnide@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Howard Shook",
+          "email": "hshook@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember J.P. Matzigkeit",
+          "email": "jpmatzigkeit@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Dustin Hills",
+          "email": "drhillis@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Andrea L. Boone",
+          "email": "aboone@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Marci Collier Overstreet",
+          "email": "mcoverstreet@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Joyce Sheperd",
+          "email": "jmsheperd@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Michael Julian Bond",
+          "email": "mbond@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Matt Westmoreland",
+          "email": "mwestmoreland@atlantaga.gov"
+        },
+        {
+          "name": "Councilmember Andre Dickens",
+          "email": "adickens@atlantaga.gov"
+        }
+      ]
+    },
+    "Illinois": {
+      "Chicago": [
+        {
+          "name": "Mayor Lori Lightfoot",
+          "email": "letterforthemayor@cityofchicago.org"
+        }
+      ]
+    },
+    "Massachusetts": {
+      "Boston": [
+        {
+          "name": "Mayor Martin Walsh",
+          "email": "mayor@boston.gov"
+        },
+        {
+          "name": "Councilmember Annissa Essaibi George",
+          "email": "A.E.George@boston.gov"
+        },
+        {
+          "name": "Councilmember Michael Flaherty",
+          "email": "Michael.F.Flaherty@boston.gov"
+        },
+        {
+          "name": "Councilmember Michelle Wu",
+          "email": "Michelle.Wu@boston.gov"
+        },
+        {
+          "name": "Councilmember Lydia Edwards",
+          "email": "lydia.edwards@boston.gov"
+        },
+        {
+          "name": "Councilmember Ed Flynn",
+          "email": "ed.flynn@boston.gov"
+        },
+        {
+          "name": "Councilmember Frank Baker",
+          "email": "Frank.Baker@boston.gov"
+        },
+        {
+          "name": "Councilmember Andrea Campbell",
+          "email": "Andrea.Campbell@boston.gov"
+        },
+        {
+          "name": "Councilmember Ricardo Arroyo",
+          "email": "ricardo.arroyo@boston.gov"
+        },
+        {
+          "name": "Councilmember Matt O'Malley",
+          "email": "matthew.omalley@boston.gov"
+        },
+        {
+          "name": "Councilmember Kenzie Bok",
+          "email": "kenzie.bok@boston.gov"
+        },
+        {
+          "name": "Commissioner William Gross",
+          "email": "mediarelations@pd.boston.gov"
+        }
+      ]
+    },
+    "Minnesota": {
+      "Minneapolis": [
+        {
+          "name": "Mayor Jacob Frey",
+          "email": "Jacob.Frey@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Kevin Reich",
+          "email": "kevin.reich@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Cam Gordon",
+          "email": "cam.gordon@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Steve Fletcher",
+          "email": "steve.fletcher@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Phillipe Cunningham",
+          "email": "Phillipe.Cunningham@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Jeremiah Ellison",
+          "email": "Jeremiah.Ellison@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Lisa Goodman",
+          "email": "Lisa.Goodman@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Andrea Jenkins",
+          "email": "Andrea.Jenkins@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Alondra Cano",
+          "email": "Alondra.Cano@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Lisa Bender",
+          "email": "Lisa.Bender@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Jeremy Schroeder",
+          "email": "Jeremy.Schroeder@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Andrew Johnson",
+          "email": "Andrew.Johnson@minneapolismn.gov"
+        },
+        {
+          "name": "Councilmember Linea Palmisano",
+          "email": "Linea.Palmisano@minneapolismn.gov"
+        }
+      ]
+    },
+    "Missouri": {
+      "Greene County": [
+        {
+          "name": "Representative Sonya Anderson",
+          "email": "Sonya.Anderson@house.mo.gov"
+        },
+        {
+          "name": "Representative Jeffrey Messenger",
+          "email": "Jeff.Messenger@house.mo.gov"
+        }
+      ],
+      "Jefferson County": [
+        {
+          "name": "Representative Rob Vescovo",
+          "email": "Rob.Vescovo@house.mo.gov"
+        }
+      ],
+      "Kansas City": [
+        {
+          "name": "Representative Keri Ingle",
+          "email": "Keri.Ingle@house.mo.gov"
+        },
+        {
+          "name": "Representative Ingrid Burnett",
+          "email": "Ingrid.Burnett@house.mo.gov"
+        },
+        {
+          "name": "Representative Barbara Washington",
+          "email": "Barbara.Washington@house.mo.gov"
+        }
+      ],
+      "Pulaski County": [
+        {
+          "name": "Representative Steve Lynch",
+          "email": "Steve.Lynch@house.mo.gov"
+        }
+      ],
+      "Springfield": [
+        {
+          "name": "Representative Crystal Quade",
+          "email": "Crystal.Quade@house.mo.gov"
+        },
+        {
+          "name": "Representative Elijah Haah",
+          "email": "Elijah.Haahr@house.mo.gov"
+        }
+      ],
+      "St. Charles County": [
+        {
+          "name": "Representative John Wiemann",
+          "email": "John.Wiemann@house.mo.gov"
+        }
+      ],
+      "St. Louis County": [
+        {
+          "name": "Mayor Lyda Krewson",
+          "email": "krewsonl@stlouis-mo.gov"
+        },
+        {
+          "name": "Senator Jill Schupp",
+          "email": "jill.schupp@senate.mo.gov"
+        },
+        {
+          "name": "Representative Tracy McCreery",
+          "email": "Tracy.McCreery@house.mo.gov"
+        },
+        {
+          "name": "Representative Tommie Pierson",
+          "email": "Tommie.PiersonJr@house.mo.gov"
+        },
+        {
+          "name": "Representative Kevin Windham",
+          "email": "Kevin.Windhamjr@house.mo.gov"
+        },
+        {
+          "name": "Representative Sarah Unsicker",
+          "email": "Sarah.Unsicker@house.mo.gov"
+        }
+      ],
+      "Daviess, DeKalb, Gentry, and Harrison Counties": [
+        {
+          "name": "Representative J. Eggleston",
+          "email": "J.Eggleston@house.mo.gov"
+        }
+      ],
+      "Washington, Wayne, Reynolds, and Iron Counties": [
+        {
+          "name": "Representative Chris Dinkins",
+          "email": "Chris.Dinkins@house.mo.gov"
+        }
+      ]
+    },
+    "Nevada": {
+      "Las Vegas": [
+        {
+          "name": "Mayor Carolyn Goodman",
+          "email": "cgoodman@lasvegasnevada.gov"
+        },
+        {
+          "name": "Councilman Brian Knudsen",
+          "email": "ward1@lasvegasnevada.gov"
+        },
+        {
+          "name": "Councilwoman Victoria Seaman",
+          "email": "ward2@lasvegasnevada.gov"
+        },
+        {
+          "name": "Councilwoman Olivia Diaz",
+          "email": "ward3@lasvegasnevada.gov"
+        },
+        {
+          "name": "Councilman Stavros S. Anthony",
+          "email": "ward4newsletter@lasvegasnevada.gov"
+        },
+        {
+          "name": "Councilman Cedric Crear",
+          "email": "ccrear@lasvegasnevada.gov"
+        },
+        {
+          "name": "Councilwoman Michele Fiore",
+          "email": "mfiore@lasvegasnevada.gov"
+        },
+        {
+          "name": "City Manager Scott D. Adams",
+          "email": "sadams@lasvegasnevada.gov"
+        }
+      ],
+      "Reno": [
+        {
+          "name": "Mayor Hillary Schieve",
+          "email": "mayor@reno.gov"
+        },
+        {
+          "name": "Rick Caldeira",
+          "email": "caldeirar@reno.gov"
+        },
+        {
+          "name": "Councilmember Devon Reese",
+          "email": "reesed@reno.gov"
+        },
+        {
+          "name": "Councilmember Jenny Brekhus",
+          "email": "brekhusj@reno.gov"
+        },
+        {
+          "name": "Councilmember Naomi Duerr",
+          "email": "duerrn@reno.gov"
+        },
+        {
+          "name": "Councilmember Oscar Delgado",
+          "email": "delgadoo@reno.gov"
+        },
+        {
+          "name": "Councilmember Bonnie Weber",
+          "email": "weberb@reno.gov"
+        },
+        {
+          "name": "Councilmember Neoma Jardon",
+          "email": "jardonn@reno.gov"
+        }
+      ]
+    },
+    "New York": {
+      "NYC": [
+        {
+          "name": "Mayor Bill de Blasio",
+          "email": "bdeblasio@cityhall.nyc.gov"
+        },
+        {
+          "name": "Manhattan Borough President Gale Brewer",
+          "email": "gbrewer@manhattanbp.nyc.gov"
+        },
+        {
+          "name": "Director Jeremy Unger",
+          "email": "junger@council.nyc.gov"
+        },
+        {
+          "name": "Councilperson Corey Johnson",
+          "email": "SpeakerJohnson@council.nyc.gov"
+        },
+        {
+          "name": "Councilperson Keith Powers",
+          "email": "kpowers@council.nyc.gov"
+        },
+        {
+          "name": "Senator Brad Hoylman",
+          "email": "hoylman@nysenate.gov"
+        },
+        {
+          "name": "Senator Brian Kavanaugh",
+          "email": "kavanagh@nysenate.gov"
+        },
+        {
+          "name": "Assemblymember Richard Gottfried",
+          "email": "GottfriedR@assembly.state.ny.us"
+        },
+        {
+          "name": "Assemblymember Deborah Glick",
+          "email": "glickd@assembly.state.ny.us"
+        }
+      ]
+    },
+    "North Carolina": {
+      "Durham County": [
+        {
+          "name": "Chair Wendy Jacobs",
+          "email": "wjacobs@dconc.gov"
+        },
+        {
+          "name": "Vice-Chairman James Hill",
+          "email": "jahill@dconc.gov"
+        },
+        {
+          "name": "Commissioner Heidi Carter",
+          "email": "hcarter@dconc.gov"
+        },
+        {
+          "name": "Commissioner Brenda Howerton",
+          "email": "bhowerton@dconc.gov"
+        },
+        {
+          "name": "Commissioner Ellen Reckhow",
+          "email": "ereckhow@dconc.gov"
+        },
+        {
+          "name": "Sheriff Clarence Birkhead",
+          "email": "sheriffbirkhead@durhamsheriff.org"
+        }
+      ],
+      "Wake County": [
+        {
+          "name": "Commissioner Sig Hutchinson",
+          "email": "Sig.Hutchinson@wakegov.com"
+        },
+        {
+          "name": "Commissioner Matt Calabria",
+          "email": "Matt.Calabria@wakegov.com"
+        },
+        {
+          "name": "Commissioner Susan Evans",
+          "email": "Susan.Evans@wakegov.com"
+        },
+        {
+          "name": "Commissioner Jessica Holmes",
+          "email": "Jessica.Holmes@wakegov.com"
+        },
+        {
+          "name": "Commissioner James West",
+          "email": "james.west@wakegov.com"
+        },
+        {
+          "name": "Chairman Greg Ford",
+          "email": "Greg.Ford@wakegov.com"
+        },
+        {
+          "name": "Vice-Chair Vickie Adamson",
+          "email": "Vickie.Adamson@wakegov.com"
+        },
+        {
+          "name": "County Manager David Ellis",
+          "email": "David.Ellis@wakegov.com"
+        },
+        {
+          "name": "Sheriff Gerald Baker",
+          "email": "gerald.baker@wakegov.com"
+        }
+      ],
+      "Durham": [
+        {
+          "name": "Councilwoman Javiera Caballero",
+          "email": "Javiera.Caballero@durhamnc.gov"
+        },
+        {
+          "name": "Councilwoman DeDreana Freeman",
+          "email": "dedreana.freeman@durhamnc.gov"
+        },
+        {
+          "name": "Councilman Mark-Anthony Middleton",
+          "email": "Mark-Anthony.Middleton@durhamnc.gov"
+        },
+        {
+          "name": "Mayor Pro Tempore Jillian Johnson",
+          "email": "Jillian.Johnson@durhamnc.gov"
+        },
+        {
+          "name": "Councilman Charlie Reece",
+          "email": "charlie.reece@durhamnc.gov"
+        },
+        {
+          "name": "Mayor Steve Schewel",
+          "email": "Steve.Schewel@durhamnc.gov"
+        },
+        {
+          "name": "Chief CJ Davis",
+          "email": "policechief@durhamnc.gov"
+        }
+      ],
+      "Raleigh": [
+        {
+          "name": "City Manager Ruffin Hall",
+          "email": "citymanager@raleighnc.gov"
+        },
+        {
+          "name": "Chief Cassandra Deck-Brown",
+          "email": "cassandra.deck-brown@raleighnc.gov"
+        },
+        {
+          "name": "Mayor Mary-Ann Baldwin",
+          "email": "mary-ann.baldwin@raleighnc.gov"
+        },
+        {
+          "name": "Councilman Jonathan Melton",
+          "email": "jonathan.melton@raleighnc.gov"
+        },
+        {
+          "name": "Councilwoman Nicole Stewart",
+          "email": "nicole.stewart@raleighnc.gov"
+        },
+        {
+          "name": "Councilman Patrick Buffkin",
+          "email": "patrick.buffkin@raleighnc.gov"
+        },
+        {
+          "name": "Councilman David Cox",
+          "email": "david.cox@raleighnc.gov"
+        },
+        {
+          "name": "Councilman Corey Branch",
+          "email": "corey.branch@raleighnc.gov"
+        },
+        {
+          "name": "Councilman Saige Martin",
+          "email": "saige.martin@raleighnc.gov"
+        },
+        {
+          "name": "Councilman David Knight",
+          "email": "david.knight@raleighnc.gov"
+        }
+      ],
+      "Apex": [
+        {
+          "name": "Mayor Jacques Gilbert ",
+          "email": "jacques.gilbert@apexnc.org"
+        },
+        {
+          "name": "Mayor Pro Tem Nicole Dozier ",
+          "email": "nicole.dozier@apexnc.org"
+        },
+        {
+          "name": "Council Member Brett Gantt",
+          "email": "brett.gantt@apexnc.org"
+        },
+        {
+          "name": "Council Member Audra Killingsworth ",
+          "email": "audra.killingsworth@apexnc.org"
+        },
+        {
+          "name": "Council Member Terry Mahaffey",
+          "email": "terry.mahaffey@apexnc.org"
+        },
+        {
+          "name": "Council Member Cheryl Stallings",
+          "email": "cheryl.stallings@apexnc.org"
+        },
+        {
+          "name": "Chief John Letteney",
+          "email": "John.Letteney@apexnc.org"
+        }
+      ],
+      "Cary": [
+        {
+          "name": "Chief Toni Dezomits",
+          "email": "toni.dezomits@townofcary.org"
+        },
+        {
+          "name": "Councilman Jack Smith",
+          "email": "jack.smith@townofcary.org"
+        },
+        {
+          "name": "Councilman Ed Yerha",
+          "email": "ed.yerha@townofcary.org"
+        },
+        {
+          "name": "Councilwoman Ya Liu",
+          "email": "ya.liu@townofcary.org"
+        },
+        {
+          "name": "Mayor Harold Weinbrecht",
+          "email": "harold.weinbrecht@townofcary.org"
+        },
+        {
+          "name": "Councilwoman Jennifer Robinson",
+          "email": "jennifer.robinson@townofcary.org"
+        },
+        {
+          "name": "Mayor Pro Tem Don Frantz",
+          "email": "don.frantz@townofcary.org"
+        },
+        {
+          "name": "Councilwoman Lori Bush",
+          "email": "lori.bush@townofcary.org"
+        }
+      ],
+      "Fuquay-Varina": [
+        {
+          "name": "Town Manager Adam Mitchell",
+          "email": "amitchell@fuquay-varina.org"
+        },
+        {
+          "name": "Mayor John Byrne",
+          "email": "jbyrne@fuquay-varina.org"
+        },
+        {
+          "name": "Mayor Pro Tem Blake Massengill",
+          "email": "bmassengill@fuquay-varina.org"
+        },
+        {
+          "name": "Commissioner Marilyn Gardner",
+          "email": "mgardner@fuquay-varina.org"
+        },
+        {
+          "name": "Commissioner William Harris",
+          "email": "wharris@fuquay-varina.org"
+        },
+        {
+          "name": "Commissioner Larry Smith",
+          "email": "lsmith@fuquay-varina.org"
+        },
+        {
+          "name": "Commissioner Jason Wunsch",
+          "email": "jwunsch@fuquay-varina.org"
+        },
+        {
+          "name": "Chief Laura Fahnestock",
+          "email": "lfahnestock@fuquay-varina.org"
+        }
+      ]
+    },
+    "Oregon": {
+      "Portland": [
+        {
+          "name": "Mayor Ted Wheeler",
+          "email": "mayorwheeler@portlandoregon.gov"
+        },
+        {
+          "name": "Commissioner Amanda Fritz",
+          "email": "Amanda@portlandoregon.gov"
+        },
+        {
+          "name": "Commissioner Jo Ann Hardesty",
+          "email": "JoAnn@portlandoregon.gov"
+        },
+        {
+          "name": "Commissioner Nick Fish",
+          "email": "nick@portlandoregon.gov"
+        },
+        {
+          "name": "Commissioner Chloe Eudaly",
+          "email": "chloe@portlandoregon.gov"
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "Philadelphia": [
+        {
+          "name": "Mayor Jim Kenney",
+          "email": "james.kenney@phila.gov"
+        },
+        {
+          "name": "Council President Darrell Clarke",
+          "email": "darrell.clarke@phila.gov"
+        },
+        {
+          "name": "Councilmember Mark Squilla",
+          "email": "mark.squilla@phila.gov"
+        },
+        {
+          "name": "Councilmember Kenyatta Johnson",
+          "email": "kenyatta.johnson@phila.gov"
+        },
+        {
+          "name": "Councilmember Jamie Gauthier",
+          "email": "jamie.gauthier@phila.gov"
+        },
+        {
+          "name": "Councilmember Curtis Jones",
+          "email": "curtis.jones@phila.gov"
+        },
+        {
+          "name": "Councilmember Bobby Henon",
+          "email": "bobby@bobbyhenon.com"
+        },
+        {
+          "name": "Councilmember Maria Quiñones Sánchez",
+          "email": "maria.q.sanchez@phila.gov"
+        },
+        {
+          "name": "Councilmember Cindy Bass",
+          "email": "cindy.bass@phila.gov"
+        },
+        {
+          "name": "Councilmember Cherelle Parker",
+          "email": "cherelle.parker@phila.gov"
+        },
+        {
+          "name": "Councilmember Brian O'Neill",
+          "email": "brian.o'neill@phila.gov"
+        },
+        {
+          "name": "Councilmember Kendra Brooks",
+          "email": "Kendra.Brooks@phila.gov"
+        },
+        {
+          "name": "Councilmember Allan Domb",
+          "email": "allan.domb@phila.gov"
+        },
+        {
+          "name": "Councilmember Derek Green",
+          "email": "derek.green@phila.gov"
+        },
+        {
+          "name": "Councilmember Helen Gym",
+          "email": "helen.gym@phila.gov"
+        },
+        {
+          "name": "Councilmember David Oh",
+          "email": "david.oh@phila.gov"
+        },
+        {
+          "name": "Councilmember Isaiah Thomas",
+          "email": "Isaiah.Thomas@phila.gov"
+        },
+        {
+          "name": "Commissioner Richard Ross",
+          "email": "police.commissioner@phila.gov"
+        }
+      ]
+    },
+    "Texas": {
+      "Austin": [
+        {
+          "name": "Mayor Steve Adler",
+          "email": "steve.adler@austintexas.gov"
+        }
+      ],
+      "Dallas": [
+        {
+          "name": "Mayor Pro Tem Adam Medrano",
+          "email": "adam.medrano@dallascityhall.com"
+        },
+        {
+          "name": "Deputy Mayor Pro Tem B. Adam McGough",
+          "email": "adam.mcgough@dallascityhall.com"
+        },
+        {
+          "name": "Council Liaison Laura Cadena",
+          "email": "Laura.Cadena@dallascityhall.com"
+        },
+        {
+          "name": "Council Assistant Yesenia Valdez",
+          "email": "Yesenia.Valdez@dallascityhall.com"
+        },
+        {
+          "name": "Councilmember Chad West",
+          "email": "Chad.West@dallascityhall.com"
+        },
+        {
+          "name": "Councilmember Casey Thomas, II",
+          "email": "richard.soto@dallascityhall.com"
+        },
+        {
+          "name": "Councilmember Carolyn King Arnold",
+          "email": "District4@DallasCityHall.com"
+        },
+        {
+          "name": "Councilmember Jaime Resendez",
+          "email": "jaime.resendez@dallascityhall.com"
+        },
+        {
+          "name": "Councilmember Tennell Atkins",
+          "email": "maria.salazar2@dallascityhall.com"
+        },
+        {
+          "name": "Councilmember Paula Blackmon",
+          "email": "District9@DallasCityHall.com"
+        },
+        {
+          "name": "Councilmember Lee M. Kleinman",
+          "email": "sophia.figueroa@dallascityhall.com"
+        },
+        {
+          "name": "Councilmember Cara Mendelsohn",
+          "email": "cara.mendelsohn@dallascityhall.com"
+        }
+      ],
+      "Houston": [
+        {
+          "name": "Mayor Sylvester Turner",
+          "email": "mayor@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Amy Peck",
+          "email": "districta@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Jerry Davis",
+          "email": "districtb@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Abbie Kamin",
+          "email": "districtc@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Carolyn Evans-Shabazz",
+          "email": "districtd@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Dave Martin",
+          "email": "districte@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Tiffany Thomas",
+          "email": "districtf@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Greg Travis",
+          "email": "districtg@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Karla Cisneros",
+          "email": "districth@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Robert Gallegos",
+          "email": "districti@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Edward Pollard",
+          "email": "districtj@houstontx.gov"
+        },
+        {
+          "name": "Councilmember Martha Castex-Tatum",
+          "email": "districtk@houstontx.gov"
+        }
+      ],
+      "Plano": [
+        {
+          "name": "Mayor Harry LaRosiliere",
+          "email": "mayor@plano.gov"
+        },
+        {
+          "name": "Mayor Pro Tem Kayci Prince",
+          "email": "kayciprince@plano.gov"
+        },
+        {
+          "name": "Deputy Mayor Pro Tem Anthony Ricciardelli",
+          "email": "aricciardelli@plano.gov"
+        },
+        {
+          "name": "Councilmember Maria Tu",
+          "email": "mariatu@plano.gov"
+        },
+        {
+          "name": "Councilmember Rick Grady",
+          "email": "rickgrady@plano.gov"
+        },
+        {
+          "name": "Councilmember Shelby Williams",
+          "email": "shelbywilliams@plano.gov"
+        },
+        {
+          "name": "Councilmember Rick Smith",
+          "email": "ricksmith@plano.gov"
+        },
+        {
+          "name": "Councilmember Lily Bao",
+          "email": "lilybao@plano.gov"
+        }
+      ]
+    },
+    "Washington": {
+      "Seattle": [
+        {
+          "name": "Mayor Jenny Durkan",
+          "email": "jenny.durkan@seattle.gov"
+        },
+        {
+          "name": "Councilmember Lisa Herbold",
+          "email": "lisa.herbold@seattle.gov"
+        },
+        {
+          "name": "Councilmember Tammy Morales",
+          "email": "tammy.morales@seattle.gov"
+        },
+        {
+          "name": "Councilmember Kshama Sawant",
+          "email": "kshama.sawant@seattle.gov"
+        },
+        {
+          "name": "Councilmember Alex Pedersen",
+          "email": "alex.pedersen@seattle.gov"
+        },
+        {
+          "name": "Councilmember Debora Juerez",
+          "email": "debora.juarez@seattle.gov"
+        },
+        {
+          "name": "Councilmember Dan Strauss",
+          "email": "dan.strauss@seattle.gov"
+        },
+        {
+          "name": "Councilmember Andrew Lewis",
+          "email": "andrew.lewis@seattle.gov"
+        },
+        {
+          "name": "Councilmember Teresa Mosqueda",
+          "email": "teresa.mosqueda@seattle.gov"
+        }
+      ]
+    }
+  }
