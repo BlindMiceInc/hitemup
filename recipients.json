@@ -1,0 +1,3415 @@
+{
+    "Arizona": {
+        "Phoenix": [
+            {
+                "name": "Kate Gallego",
+                "email": "mayor.gallego@phoenix.gov",
+                "title": "mayor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Betty Guardado",
+                "email": "council.district.5@phoenix.gov",
+                "title": "vice mayor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Thelda Williams",
+                "email": "council.district.1@phoenix.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Jim Waring",
+                "email": "council.district.2@phoenix.gov",
+                "title": "councilman",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Debra Stark",
+                "email": "council.district.3@phoenix.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Laura Pastor",
+                "email": "council.district.4@phoenix.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Sal DiCiccio",
+                "email": "council.district.6@phoenix.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Michael Nowakowski",
+                "email": "council.district.7@phoenix.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Carlos Garcia",
+                "email": "council.district.8@phoenix.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Tuscon": [
+            {
+                "name": "Regina Romero",
+                "email": "Mayor.Romero@tucsonaz.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Steve Kozachik",
+                "email": "ward6@tucsonaz.gov",
+                "title": "vice mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Lane Santa Cruz",
+                "email": "ward1@tucsonaz.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Paul Cunningham",
+                "email": "ward2@tucsonaz.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Paul Durham",
+                "email": "ward3@tucsonaz.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Nikki Lee",
+                "email": "ward4@tucsonaz.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Richard Fimbres",
+                "email": "ward5@tucsonaz.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            }
+        ]
+    },
+    "California": {
+        "Alameda": [
+            {
+                "name": "Marilyn Ezzy Ashcraft",
+                "email": "mezzyashcraft@alamedaca.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "John Knox White",
+                "email": "jknoxwhite@alamedaca.gov",
+                "title": "vice mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Tony Daysog",
+                "email": "tdaysog@alamedaca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jim Oddie",
+                "email": "joddie@alamedaca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Malia Vella",
+                "email": "mvella@alamedaca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Nancy E. O'Malley",
+                "email": "info@alcoda.org",
+                "title": "district attorney",
+                "party": "",
+                "gender": "female"
+            }
+        ],
+        "Bakersfield": [
+            {
+                "name": "Karen Goh",
+                "email": "Mayor@bakersfieldcity.us",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Councilmembers",
+                "email": "City_Council@bakersfieldcity.us",
+                "title": "councilor",
+                "party": "",
+                "gender": ""
+            }
+        ],
+        "Fresno": [
+            {
+                "name": "Lee Brand",
+                "email": "lee.brand@fresno.gov",
+                "title": "mayor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Esmeralda Soria",
+                "email": "esmeralda.soria@fresno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Miguel Arias",
+                "email": "miguel.arias@fresno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Paul Caprioglio",
+                "email": "paul.capriogolio@fresno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Luis Chavez",
+                "email": "luis.chavez@fresno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Garry Bredefeld",
+                "email": "garry.bredefeld@fresno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Nelson Esparza",
+                "email": "nelson.esparza@fresno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Wilma Quan",
+                "email": "wilma.quan@fresno.gov",
+                "title": "city manager",
+                "party": "nonpartisan",
+                "gender": "female"
+            }
+        ],
+        "Los Angeles": [
+            {
+                "name": "Eric Garcetti",
+                "email": "mayor.helpdesk@lacity.org",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Mike Feuer",
+                "email": "mayor.garcetti@lacity.org",
+                "title": "city attorney",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Gilbert (Gil) Cidillo",
+                "email": "councilmember.cidillo@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Paul Krekorian",
+                "email": "councilmember.krekorian@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Bob Blumenfield",
+                "email": "councilmember.blumenfield@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "David E. Ryu",
+                "email": "david.ryu@lacity.og",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Marqueece Harris-Dawson",
+                "email": "councilmember.harrison-dawson@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Herb J. Wesson Jr.",
+                "email": "councilmember.wesson@lacity.org",
+                "title": "council-president",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mike Bonin",
+                "email": "councilmember.bonin@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mitch O' Farrell",
+                "email": "councilmember.ofarrell@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Jose Huizar",
+                "email": "councilmember.huizar@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Paul Kortez",
+                "email": "paul.kortez@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Nury Martinez",
+                "email": "councilmember.martinez@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Curren D. Price Jr.",
+                "email": "councilmember.price@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mitchell Englander",
+                "email": "councilmember.englander@lacity.org",
+                "title": "councilor",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Joe Buscaino",
+                "email": "councilmember.buscaino@lacity.org",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            }
+        ],
+        "Oakland": [
+            {
+                "name": "Libby Schaaf",
+                "email": "officeofthemayor@oaklandnet.com",
+                "title": "mayor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Dan Kalb",
+                "email": "dkalb@oaklandca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Rebecca Kaplan",
+                "email": "rkaplan@oaklandca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Nikki Fortunato Bas",
+                "email": "nfbas@oaklandca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "femlae"
+            },
+            {
+                "name": "Lynette Gibson McElhaney",
+                "email": "LMcElhaney@oaklandca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Sheng Thao",
+                "email": "district4@oaklandca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Loren Taylor",
+                "email": "District6@oaklandca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Noel Gallo",
+                "email": "Ngallo@oaklandca.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Larry Reid",
+                "email": "lreid@oaklandnet.com",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Orange County": [
+            {
+                "name": "Michelle Steel",
+                "email": "Michelle.Steel@ocgov.com",
+                "title": "supervisor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Andrew Do",
+                "email": "Andrew.Do@ocgov.com",
+                "title": "supervisor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Donald P. Wagner",
+                "email": "Donald.Wagner@ocgov.com",
+                "title": "supervisor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Doug Chaffee",
+                "email": "Fourth.District@ocgov.com",
+                "title": "supervisor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Lisa Bartlett",
+                "email": "Lisa.Bartlett@ocgov.com",
+                "title": "supervisor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Todd Spitzer",
+                "email": "media@da.ocgov.com",
+                "title": "",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Sacramento": [
+            {
+                "name": "Darrell Steinberg",
+                "email": "MayorSteinberg@cityofsacramento.org",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jeff Harris",
+                "email": "jsharris@cityofsacramento.org",
+                "title": "vice mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "David Gonsalves",
+                "email": "dgonsalves@cityofsacramento.org",
+                "title": "",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jocelyn Navarro",
+                "email": "jonavarro@cityofsacramento.org",
+                "title": "",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Angelique Ashby",
+                "email": "aashby@cityofsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Allen Wayne Warren",
+                "email": "awarren@cityofsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Steve Hansen",
+                "email": "SHansen@cityofsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jay Schenirer",
+                "email": "jschenirer@cityofsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Rick Jennings",
+                "email": "rjennings@cityofsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Larry Carr",
+                "email": "lcarr@cityofsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Phil Serna",
+                "email": "SupervisorSerna@saccounty.net",
+                "title": "supervisor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Patrick Kennedy",
+                "email": "SupervisorKennedy@saccounty.net",
+                "title": "supervisor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Chris Cabaldon",
+                "email": "christopherc@cityofwestsacramento.org",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Quirina Orozco",
+                "email": "quirinao@cityofwestsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Chris Ledesma",
+                "email": "chrisl@cityofwestsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Martha Guerrero",
+                "email": "mguerrero@cityofwestsacramento.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Beverly Sandeen",
+                "email": "beverlys@cityofwestsacramento.org",
+                "title": "mayor pro tem",
+                "party": "",
+                "gender": "female"
+            }
+        ],
+        "San Diego": [
+            {
+                "name": "Kevin Faulconer",
+                "email": "kevinfaulconer@sandiego.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jennifer Campbell",
+                "email": "jennifercampbell@sandiego.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Chris Ward",
+                "email": "christopherward@sandiego.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Monica Montgomery",
+                "email": "monicamontgomery@sandiego.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Vivian Moreno",
+                "email": "vivianmoreno@sandiego.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Barbara Bry",
+                "email": "barbarabry@sandiego.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Mark Kersey",
+                "email": "markkersey@sandiego.gov",
+                "title": "president-pro-tem",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Chris Cate",
+                "email": "chriscate@sandiego.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Scott Sherman",
+                "email": "scottsherman@sandiego.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Georgette Gomez",
+                "email": "georgettegomez@sandiego.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Lorie Zapf",
+                "email": "loriezapf@sandiego.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Myrtle  Cole",
+                "email": "myrtlecole@sandiego.gov",
+                "title": "council-president",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "David Alvarez",
+                "email": "davidalvarez@sandiego.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            }
+        ],
+        "San Francisco": [
+            {
+                "name": "Matt Haney",
+                "email": "Matt.Haney@sfgov.org",
+                "title": "supervisor",
+                "party": "non-partisan",
+                "gender": "male"
+            },
+            {
+                "name": "Rafael Mandelman",
+                "email": "MandelmanStaff@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Gordon Mar",
+                "email": "Gordon.Mar@sfgov.org",
+                "title": "supervisor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Aaron Peskin",
+                "email": "Aaron.Peskin@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Dean Preston",
+                "email": "Dean.Preston@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Sandra Lee Fewer",
+                "email": "sandra.fewer@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Hillary Ronen",
+                "email": "Hillary.Ronen@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Ahsha Safai",
+                "email": "Ahsha.Safai@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Catherine Stefani",
+                "email": "Catherine.Stefani@sfgov.org",
+                "title": "supervisor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Shamann Walton",
+                "email": "Shamann.Walton@sfgov.org",
+                "title": "supervisor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Norman Yee",
+                "email": "Norman.Yee@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mark Farrell",
+                "email": "mark.farrell@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Katy Tang",
+                "email": "katy.tang@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Jane Kim",
+                "email": "jane.kim@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Malia Cohen",
+                "email": "maila.cohen@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "London Breed",
+                "email": "london.breed@sfgov.org",
+                "title": "commissioner",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Jeff Sheehy",
+                "email": "jeff.sheehy@sfgov.org",
+                "title": "supervisor",
+                "party": "democrat",
+                "gender": "male"
+            }
+        ],
+        "San Jose": [
+            {
+                "name": "Sam Liccardo",
+                "email": "mayoremail@sanjoseca.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Charles Jones",
+                "email": "District1@sanjoseca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Sergio Jimenez",
+                "email": "District2@sanjoseca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Raul Peralez",
+                "email": "District3@sanjoseca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Lan Diep",
+                "email": "District4@sanjoseca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Magdalena Carrasco",
+                "email": "District5@sanjoseca.gov",
+                "title": "vice-mayor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Devora Davis",
+                "email": "District6@sanjoseca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Maya Esparza",
+                "email": "District7@sanjoseca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Sylvia Arenas",
+                "email": "District8@sanjoseca.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Pam Foley",
+                "email": "District9@sanjoseca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Johnny Khamis",
+                "email": "District10@sanjoseca.gov",
+                "title": "councilor",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Tam Nguyen",
+                "email": "district7@sanjoseca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Donald Rocha",
+                "email": "district9@sanjoseca.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            }
+        ],
+        "Santa Clara": [
+            {
+                "name": "Lisa Gillmore",
+                "email": "lgillmor@santaclaraca.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Kathy Watanabe",
+                "email": "kwatanabe@santaclaraca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Raj Chahal",
+                "email": "rchahal@santaclaraca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Teresa O'Neill",
+                "email": "toneill@santaclaraca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Karen Hardy",
+                "email": "khardy@santaclaraca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Debbie Davis",
+                "email": "ddavis@santaclaraca.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Brian Doyle",
+                "email": "CityAttorney@santaclaraca.gov",
+                "title": "",
+                "party": "",
+                "gender": "male"
+            }
+        ]
+    },
+    "District of Columbia": {
+        "DC": [
+            {
+                "name": "Muriel Bowser",
+                "email": "eom@dc.gov",
+                "title": "mayor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Phil Mendelson",
+                "email": "pmendelson@dccouncil.us",
+                "title": "chairman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Kenyan McDuffie",
+                "email": "kmcduffie@dccouncil.us",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Anita Bonds",
+                "email": "abonds@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "David Grosso",
+                "email": "dgrosso@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Robert White",
+                "email": "rwhite@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Elissa Silverman",
+                "email": "esilverman@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Brianne Nadeau",
+                "email": "bnadeau@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Mary Cheh",
+                "email": "mcheh@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Brandon Todd",
+                "email": "btodd@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Charles Allen",
+                "email": "callen@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Vincent Gray",
+                "email": "vgray@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Trayon White",
+                "email": "twhite@dccouncil.us",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            }
+        ]
+    },
+    "Georgia": {
+        "Atlanta": [
+            {
+                "name": "Keisha Lance Bottoms",
+                "email": "kbottoms@atlantaga.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Felicia A. Moore",
+                "email": "fmoore@atlantaga.gov",
+                "title": "council president",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Carla Smith",
+                "email": "csmith@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Amir R. Farokhi",
+                "email": "arfarokhi@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Antonio Brown",
+                "email": "antoniobrown@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Cleta Winslow",
+                "email": "cwinslow@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Natalyn Archibong",
+                "email": "narchibong@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jennifer N. Ide",
+                "email": "jnide@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Howard Shook",
+                "email": "hshook@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "J.P. Matzigkeit",
+                "email": "jpmatzigkeit@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Dustin Hills",
+                "email": "drhillis@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Andrea L. Boone",
+                "email": "aboone@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": ""
+            },
+            {
+                "name": "Marci Collier Overstreet",
+                "email": "mcoverstreet@atlantaga.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Joyce Sheperd",
+                "email": "jmsheperd@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Michael Julian Bond",
+                "email": "mbond@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Matt Westmoreland",
+                "email": "mwestmoreland@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Andre Dickens",
+                "email": "adickens@atlantaga.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            }
+        ]
+    },
+    "Illinois": {
+        "Chicago": [
+            {
+                "name": "Lori Lightfoot",
+                "email": "letterforthemayor@cityofchicago.org",
+                "title": "mayor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Joe Proco Moreno",
+                "email": "ward01@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Brian Hopkins",
+                "email": "ward02@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Pat Dowell",
+                "email": "ward03@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Sophia King",
+                "email": "ward04@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Leslie Hairston",
+                "email": "ward05@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Roderick Sawyer",
+                "email": "ward06@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Gregory Mitchell",
+                "email": "ward07@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Michelle Harris",
+                "email": "ward08@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Anthony Beale",
+                "email": "ward09@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Susan Sadlowski Garza",
+                "email": "ward10@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Patrick Thompson",
+                "email": "ward11@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "George A Cardenas",
+                "email": "ward12@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Marty Quinn",
+                "email": "ward13@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Ed Burke",
+                "email": "ward14@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Raymond Lopez",
+                "email": "ward15@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Toni Foulkes",
+                "email": "ward16@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "David Moore",
+                "email": "ward17@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Derrick Curtis",
+                "email": "ward18@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Matthew O'Shea",
+                "email": "ward19@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Willie B Cochran",
+                "email": "ward20@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Howard Brookins Jr",
+                "email": "ward21@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Ricardo Munoz",
+                "email": "ward22@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Michael Zalewski",
+                "email": "ward23@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Michael Scott Jr.",
+                "email": "ward24@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Daniel Solis",
+                "email": "ward25@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Roberto Maldonado",
+                "email": "ward26@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Walter Burnett Jr.",
+                "email": "ward27@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Jason Ervin",
+                "email": "ward28@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Chris Taliaferro",
+                "email": "ward29@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Ariel E Reboyras",
+                "email": "ward30@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Milly Santiago",
+                "email": "ward31@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Scott Waguespack",
+                "email": "ward32@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Deborah Mell",
+                "email": "ward33@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Carrie Austin",
+                "email": "ward34@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Carlos Ramirez-Rosa",
+                "email": "ward35@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Gilbert Villegas",
+                "email": "ward36@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Emma Mitts",
+                "email": "ward37@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Nicholas Sposato",
+                "email": "ward38@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Margaret Laurino",
+                "email": "ward39@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Patrick J O'Connor",
+                "email": "ward40@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Anthony Napolitano",
+                "email": "ward41@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Brendan Reilly",
+                "email": "ward42@cityofchicago.org",
+                "title": "alderman",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Michele Smith",
+                "email": "ward43@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Thomas M Tunney",
+                "email": "ward44@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "John Arena",
+                "email": "ward45@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "James Cappleman",
+                "email": "ward46@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Ameya Pawar",
+                "email": "ward47@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Harry Osterman",
+                "email": "ward48@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Joseph A Moore",
+                "email": "ward49@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Debra Silverstin",
+                "email": "ward50@cityofchicago.org",
+                "title": "alderman",
+                "party": "democrat",
+                "gender": "female"
+            }
+        ]
+    },
+    "Massachusetts": {
+        "Boston": [
+            {
+                "name": "Martin Walsh",
+                "email": "mayor@boston.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Annissa Essaibi George",
+                "email": "A.E.George@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Michael Flaherty",
+                "email": "Michael.F.Flaherty@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Michelle Wu",
+                "email": "Michelle.Wu@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Lydia Edwards",
+                "email": "lydia.edwards@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Ed Flynn",
+                "email": "ed.flynn@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Frank Baker",
+                "email": "Frank.Baker@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Andrea Campbell",
+                "email": "Andrea.Campbell@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Ricardo Arroyo",
+                "email": "ricardo.arroyo@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Matt O'Malley",
+                "email": "matthew.omalley@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Kenzie Bok",
+                "email": "kenzie.bok@boston.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "William Gross",
+                "email": "mediarelations@pd.boston.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            }
+        ]
+    },
+    "Minnesota": {
+        "Minneapolis": [
+            {
+                "name": "Jacob Frey",
+                "email": "Jacob.Frey@minneapolismn.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Kevin Reich",
+                "email": "kevin.reich@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Cam Gordon",
+                "email": "cam.gordon@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Steve Fletcher",
+                "email": "steve.fletcher@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Phillipe Cunningham",
+                "email": "Phillipe.Cunningham@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jeremiah Ellison",
+                "email": "Jeremiah.Ellison@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Lisa Goodman",
+                "email": "Lisa.Goodman@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Andrea Jenkins",
+                "email": "Andrea.Jenkins@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Alondra Cano",
+                "email": "Alondra.Cano@minneapolismn.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Lisa Bender",
+                "email": "Lisa.Bender@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jeremy Schroeder",
+                "email": "Jeremy.Schroeder@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Andrew Johnson",
+                "email": "Andrew.Johnson@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Linea Palmisano",
+                "email": "Linea.Palmisano@minneapolismn.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            }
+        ]
+    },
+    "Missouri": {
+        "Greene County": [
+            {
+                "name": "Sonya Anderson",
+                "email": "Sonya.Anderson@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jeffrey Messenger",
+                "email": "Jeff.Messenger@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Jefferson County": [
+            {
+                "name": "Rob Vescovo",
+                "email": "Rob.Vescovo@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Kansas City": [
+            {
+                "name": "Keri Ingle",
+                "email": "Keri.Ingle@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "femlae"
+            },
+            {
+                "name": "Ingrid Burnett",
+                "email": "Ingrid.Burnett@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Barbara Washington",
+                "email": "Barbara.Washington@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "female"
+            }
+        ],
+        "Pulaski County": [
+            {
+                "name": "Steve Lynch",
+                "email": "Steve.Lynch@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Springfield": [
+            {
+                "name": "Crystal Quade",
+                "email": "Crystal.Quade@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Elijah Haah",
+                "email": "Elijah.Haahr@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "St. Charles County": [
+            {
+                "name": "John Wiemann",
+                "email": "John.Wiemann@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "St. Louis County": [
+            {
+                "name": "Lyda Krewson",
+                "email": "krewsonl@stlouis-mo.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jill Schupp",
+                "email": "jill.schupp@senate.mo.gov",
+                "title": "senator",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Tracy McCreery",
+                "email": "Tracy.McCreery@house.mo.gov",
+                "title": "representative",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Tommie Pierson",
+                "email": "Tommie.PiersonJr@house.mo.gov",
+                "title": "representative",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Kevin Windham",
+                "email": "Kevin.Windhamjr@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Sarah Unsicker",
+                "email": "Sarah.Unsicker@house.mo.gov",
+                "title": "representative",
+                "party": "",
+                "gender": "female"
+            }
+        ],
+        "Daviess, DeKalb, Gentry, and Harrison Counties": [
+            {
+                "name": "J. Eggleston",
+                "email": "J.Eggleston@house.mo.gov",
+                "title": "representative",
+                "party": "republican",
+                "gender": "male"
+            }
+        ],
+        "Washington, Wayne, Reynolds, and Iron Counties": [
+            {
+                "name": "Chris Dinkins",
+                "email": "Chris.Dinkins@house.mo.gov",
+                "title": "representative",
+                "party": "republican",
+                "gender": "male"
+            }
+        ]
+    },
+    "Nevada": {
+        "Las Vegas": [
+            {
+                "name": "Carolyn Goodman",
+                "email": "cgoodman@lasvegasnevada.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Brian Knudsen",
+                "email": "ward1@lasvegasnevada.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Victoria Seaman",
+                "email": "ward2@lasvegasnevada.gov",
+                "title": "councilwoman",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Olivia Diaz",
+                "email": "ward3@lasvegasnevada.gov",
+                "title": "councilwoman",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Stavros S. Anthony",
+                "email": "ward4newsletter@lasvegasnevada.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Cedric Crear",
+                "email": "ccrear@lasvegasnevada.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Michele Fiore",
+                "email": "mfiore@lasvegasnevada.gov",
+                "title": "councilwoman",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Scott D. Adams",
+                "email": "sadams@lasvegasnevada.gov",
+                "title": "city manager",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Reno": [
+            {
+                "name": "Hillary Schieve",
+                "email": "mayor@reno.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Rick Caldeira",
+                "email": "caldeirar@reno.gov",
+                "title": "",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Devon Reese",
+                "email": "reesed@reno.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Jenny Brekhus",
+                "email": "brekhusj@reno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Naomi Duerr",
+                "email": "duerrn@reno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Oscar Delgado",
+                "email": "delgadoo@reno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Bonnie Weber",
+                "email": "weberb@reno.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Neoma Jardon",
+                "email": "jardonn@reno.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            }
+        ]
+    },
+    "New York": {
+        "New York": [
+            {
+                "name": "Bill De Blasio",
+                "email": "bdeblasio@cityhall.nyc.gov",
+                "title": "mayor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Gale Brewer",
+                "email": "gbrewer@manhattanbp.nyc.gov",
+                "title": "manhattan borough president",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Jeremy Unger",
+                "email": "junger@council.nyc.gov",
+                "title": "director",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Corey Johnson",
+                "email": "SpeakerJohnson@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Keith Powers",
+                "email": "kpowers@council.nyc.gov",
+                "title": "councilperson",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Brad Hoylman",
+                "email": "hoylman@nysenate.gov",
+                "title": "senator",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Brian Kavanaugh",
+                "email": "kavanagh@nysenate.gov",
+                "title": "senator",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Richard Gottfried",
+                "email": "GottfriedR@assembly.state.ny.us",
+                "title": "assemblymember",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Deborah Glick",
+                "email": "glickd@assembly.state.ny.us",
+                "title": "assemblymember",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Margaret Chin",
+                "email": "chin@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Rosie Mendez",
+                "email": "rmendez@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Daniel Garodnick",
+                "email": "garodnick@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Ben Kallos",
+                "email": "bkallos@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Helen Rosenthal",
+                "email": "helen@helenrosenthal.com",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Mark Levine",
+                "email": "district7@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Melissa  Mark-Viverito",
+                "email": "mviverito@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Inez Dickens",
+                "email": "dickens@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Ydanis Rodriguez",
+                "email": "yrodriguez@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Andrew Cohen",
+                "email": "district11@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Andy King",
+                "email": "andy.king@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "James Vacca",
+                "email": "jvacca@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Fernando Cabrera",
+                "email": "fcabrera@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Ritchie Torres",
+                "email": "rtorres@council.nyc.gov",
+                "title": "deputy-leader",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Vanessa Gibson",
+                "email": "district16bronx@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Rafael Salamanca",
+                "email": "salamanca@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Annabel Palma",
+                "email": "apalma@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Paul Vallone",
+                "email": "district19@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Peter Koo",
+                "email": "pkoo@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Julissa  Ferreras-Copeland",
+                "email": "cd21invites@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Costa Constantinides",
+                "email": "costa@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Barry Grodenchik",
+                "email": "m23@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Rory Lancman",
+                "email": "rlancman@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Daniel Dromm",
+                "email": "ddromm@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Jimmy Van Bramer",
+                "email": "jvanbramer@council.nyc.gov",
+                "title": "majority-leader",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Daneek Miller",
+                "email": "district27@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Ruben Wills",
+                "email": "rw@council.nyv.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Karen Koslowitz",
+                "email": "koslowitz@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Elizabeth Crowley",
+                "email": "ecrowley@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Donovan Richards",
+                "email": "drichards@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Eric Ulrich",
+                "email": "eulrich@council.nyc.gov",
+                "title": "councilor",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Stephen Levin",
+                "email": "slevin@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Antonio Reynoso",
+                "email": "areynoso@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Laurie Cumbo",
+                "email": "lcumbo@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Robert Cornegy",
+                "email": "rcornegy@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Rafael Espinal",
+                "email": "respinal@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Carlos Menchaca",
+                "email": "info38@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Brad Lander",
+                "email": "lander@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mathieu Eugene",
+                "email": "mathieu.eugene@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Darlene Mealy",
+                "email": "mealy@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Inez Barron",
+                "email": "barron@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Vincent Gentile",
+                "email": "vgentile@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "David Greenfield",
+                "email": "dgreenfield@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Jumaane Williams",
+                "email": "jwilliams@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Alan Maisel",
+                "email": "amaisel@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mark Treyger",
+                "email": "mtreyger@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Chaim Deutsch",
+                "email": "cdeutsch@council.nyc.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Deborah Rose",
+                "email": "drose@council.nyc.gov",
+                "title": "deputy-majority-leader",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Steven Matteo",
+                "email": "smatteo@council.nyc.gov",
+                "title": "minority-leader",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Joe Borelli",
+                "email": "borelli@council.nyc.gov",
+                "title": "councilor",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Cyrus Vance",
+                "title": "district-attorney",
+                "party": "independent",
+                "gender": "male"
+            }
+        ]
+    },
+    "North Carolina": {
+        "Durham County": [
+            {
+                "name": "Wendy Jacobs",
+                "email": "wjacobs@dconc.gov",
+                "title": "chair",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "James Hill",
+                "email": "jahill@dconc.gov",
+                "title": "vice-chairman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Heidi Carter",
+                "email": "hcarter@dconc.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Brenda Howerton",
+                "email": "bhowerton@dconc.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Ellen Reckhow",
+                "email": "ereckhow@dconc.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Clarence Birkhead",
+                "email": "sheriffbirkhead@durhamsheriff.org",
+                "title": "sheriff",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Wake County": [
+            {
+                "name": "Sig Hutchinson",
+                "email": "Sig.Hutchinson@wakegov.com",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Matt Calabria",
+                "email": "Matt.Calabria@wakegov.com",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Susan Evans",
+                "email": "Susan.Evans@wakegov.com",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jessica Holmes",
+                "email": "Jessica.Holmes@wakegov.com",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "James West",
+                "email": "james.west@wakegov.com",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Greg Ford",
+                "email": "Greg.Ford@wakegov.com",
+                "title": "chairman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Vickie Adamson",
+                "email": "Vickie.Adamson@wakegov.com",
+                "title": "vice-chair",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "David Ellis",
+                "email": "David.Ellis@wakegov.com",
+                "title": "county manager",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Gerald Baker",
+                "email": "gerald.baker@wakegov.com",
+                "title": "sheriff",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Durham": [
+            {
+                "name": "Javiera Caballero",
+                "email": "Javiera.Caballero@durhamnc.gov",
+                "title": "councilwoman",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "DeDreana Freeman",
+                "email": "dedreana.freeman@durhamnc.gov",
+                "title": "councilwoman",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Mark-Anthony Middleton",
+                "email": "Mark-Anthony.Middleton@durhamnc.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jillian Johnson",
+                "email": "Jillian.Johnson@durhamnc.gov",
+                "title": "mayor pro tem",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Charlie Reece",
+                "email": "charlie.reece@durhamnc.gov",
+                "title": "councilman",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Steve Schewel",
+                "email": "Steve.Schewel@durhamnc.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "CJ Davis",
+                "email": "policechief@durhamnc.gov",
+                "title": "chief",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Raleigh": [
+            {
+                "name": "Ruffin Hall",
+                "email": "citymanager@raleighnc.gov",
+                "title": "city manager",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Cassandra Deck-Brown",
+                "email": "cassandra.deck-brown@raleighnc.gov",
+                "title": "chief",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Mary-Ann Baldwin",
+                "email": "mary-ann.baldwin@raleighnc.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jonathan Melton",
+                "email": "jonathan.melton@raleighnc.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Nicole Stewart",
+                "email": "nicole.stewart@raleighnc.gov",
+                "title": "councilwoman",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Patrick Buffkin",
+                "email": "patrick.buffkin@raleighnc.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "David Cox",
+                "email": "david.cox@raleighnc.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Corey Branch",
+                "email": "corey.branch@raleighnc.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Saige Martin",
+                "email": "saige.martin@raleighnc.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "David Knight",
+                "email": "david.knight@raleighnc.gov",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Apex": [
+            {
+                "name": "Jacques Gilbert",
+                "email": "jacques.gilbert@apexnc.org",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Nicole Dozier",
+                "email": "nicole.dozier@apexnc.org",
+                "title": "mayor pro tem",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Brett Gantt",
+                "email": "brett.gantt@apexnc.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Audra Killingsworth",
+                "email": "audra.killingsworth@apexnc.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Terry Mahaffey",
+                "email": "terry.mahaffey@apexnc.org",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Cheryl Stallings",
+                "email": "cheryl.stallings@apexnc.org",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "John Letteney",
+                "email": "John.Letteney@apexnc.org",
+                "title": "chief",
+                "party": "",
+                "gender": "male"
+            }
+        ],
+        "Cary": [
+            {
+                "name": "Toni Dezomits",
+                "email": "toni.dezomits@townofcary.org",
+                "title": "chief",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jack Smith",
+                "email": "jack.smith@townofcary.org",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Ed Yerha",
+                "email": "ed.yerha@townofcary.org",
+                "title": "councilman",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Ya Liu",
+                "email": "ya.liu@townofcary.org",
+                "title": "councilwoman",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Harold Weinbrecht",
+                "email": "harold.weinbrecht@townofcary.org",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jennifer Robinson",
+                "email": "jennifer.robinson@townofcary.org",
+                "title": "councilwoman",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Don Frantz",
+                "email": "don.frantz@townofcary.org",
+                "title": "mayor pro tem",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Lori Bush",
+                "email": "lori.bush@townofcary.org",
+                "title": "councilwoman",
+                "party": "",
+                "gender": "female"
+            }
+        ],
+        "Fuquay-Varina": [
+            {
+                "name": "Adam Mitchell",
+                "email": "amitchell@fuquay-varina.org",
+                "title": "town manager",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "John Byrne",
+                "email": "jbyrne@fuquay-varina.org",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Blake Massengill",
+                "email": "bmassengill@fuquay-varina.org",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Marilyn Gardner",
+                "email": "mgardner@fuquay-varina.org",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "William Harris",
+                "email": "wharris@fuquay-varina.org",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Larry Smith",
+                "email": "lsmith@fuquay-varina.org",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jason Wunsch",
+                "email": "jwunsch@fuquay-varina.org",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Laura Fahnestock",
+                "email": "lfahnestock@fuquay-varina.org",
+                "title": "chief",
+                "party": "",
+                "gender": "female"
+            }
+        ]
+    },
+    "Oregon": {
+        "Portland": [
+            {
+                "name": "Ted Wheeler",
+                "email": "mayorwheeler@portlandoregon.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Amanda Fritz",
+                "email": "Amanda@portlandoregon.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jo Ann Hardesty",
+                "email": "JoAnn@portlandoregon.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Nick Fish",
+                "email": "nick@portlandoregon.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Chloe Eudaly",
+                "email": "chloe@portlandoregon.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "female"
+            }
+        ]
+    },
+    "Pennsylvania": {
+        "Philadelphia": [
+            {
+                "name": "Jim Kenney",
+                "email": "james.kenney@phila.gov",
+                "title": "mayor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Darrell Clarke",
+                "email": "darrell.clarke@phila.gov",
+                "title": "council-president",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mark Squilla",
+                "email": "mark.squilla@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Kenyatta Johnson",
+                "email": "kenyatta.johnson@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Jamie Gauthier",
+                "email": "jamie.gauthier@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Curtis Jones",
+                "email": "curtis.jones@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Bobby Henon",
+                "email": "bobby@bobbyhenon.com",
+                "title": "majority-leader",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Cindy Bass",
+                "email": "cindy.bass@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Cherelle Parker",
+                "email": "cherelle.parker@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Brian O'Neill",
+                "email": "brian.o'neill@phila.gov",
+                "title": "minority-leader",
+                "party": "republican",
+                "gender": "male"
+            },
+            {
+                "name": "Kendra Brooks",
+                "email": "Kendra.Brooks@phila.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Allan Domb",
+                "email": "allan.domb@phila.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Derek Green",
+                "email": "derek.green@phila.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Helen Gym",
+                "email": "helen.gym@phila.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "David Oh",
+                "email": "david.oh@phila.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Isaiah Thomas",
+                "email": "Isaiah.Thomas@phila.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Richard Ross",
+                "email": "police.commissioner@phila.gov",
+                "title": "commissioner",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Jannie Blackwell",
+                "email": "jannie.l.blackwell@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            },
+            {
+                "name": "Maria Quinones-Sanchez",
+                "email": "maria.q.sanchez@phila.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            }
+        ]
+    },
+    "Texas": {
+        "Austin": [
+            {
+                "name": "Steve Adler",
+                "email": "steve.adler@austintexas.gov",
+                "title": "mayor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Sabino Renteria",
+                "email": "sabino.renteria@austintexas.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Gregorio  Casar",
+                "email": "gregorio.casar@austintexas.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Ann Kitchen",
+                "email": "ann.kitchen@austintexas.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Kathie  Tovo",
+                "email": "kathie.tovo@austintexas.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Leslie Pool",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "female"
+            }
+        ],
+        "Dallas": [
+            {
+                "name": "Adam Medrano",
+                "email": "adam.medrano@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Adam McGough",
+                "email": "adam.mcgough@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Laura Cadena",
+                "email": "Laura.Cadena@dallascityhall.com",
+                "title": "council liaison",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Yesenia Valdez",
+                "email": "Yesenia.Valdez@dallascityhall.com",
+                "title": "council assistant",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Chad West",
+                "email": "Chad.West@dallascityhall.com",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Casey Thomas",
+                "email": "richard.soto@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Carolyn King Arnold",
+                "email": "District4@DallasCityHall.com",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jaime Resendez",
+                "email": "jaime.resendez@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Tennell Atkins",
+                "email": "maria.salazar2@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Paula Blackmon",
+                "email": "District9@DallasCityHall.com",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Lee Kleinman",
+                "email": "sophia.figueroa@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Cara Mendelsohn",
+                "email": "cara.mendelsohn@dallascityhall.com",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Scott Griggs",
+                "email": "scott.griggs@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Rickey Callahan",
+                "email": "rick.callahan@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Omar Narvaez",
+                "email": "omarnarvaezdallas@gmail.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Kevin Felder",
+                "email": "district7@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Sandy Greyson",
+                "email": "sandy.greyson@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Philip Kingston",
+                "email": "philip.kingston@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Dwaine Caraway",
+                "email": "district4@dallascityhall.com",
+                "title": "mayor-pro-tem",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Adam McGeogh",
+                "email": "adam.mcgough@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Jennifer Gates",
+                "email": "carolyn.williamson@dallascityhall.com",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            }
+        ],
+        "Houston": [
+            {
+                "name": "Sylvester Turner",
+                "email": "mayor@houstontx.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Amy Peck",
+                "email": "districta@houstontx.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Jerry Davis",
+                "email": "districtb@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Abbie Kamin",
+                "email": "districtc@houstontx.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Carolyn Evans-Shabazz",
+                "email": "districtd@houstontx.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Dave Martin",
+                "email": "districte@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Tiffany Thomas",
+                "email": "districtf@houstontx.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Greg Travis",
+                "email": "districtg@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Karla Cisneros",
+                "email": "districth@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Robert Gallegos",
+                "email": "districti@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Edward Pollard",
+                "email": "districtj@houstontx.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Martha Castex-Tatum",
+                "email": "districtk@houstontx.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Brenda Stardig",
+                "email": "districta@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Ellen Cohen",
+                "email": "districtc@houstontx.gov",
+                "title": "mayor-pro-tem",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Steve Le",
+                "email": "districtf@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Larry Green",
+                "email": "districtk@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Dwight Boykins",
+                "email": "districtd@houstontx.gov",
+                "title": "councilor",
+                "party": "democrat",
+                "gender": "male"
+            },
+            {
+                "name": "Mike Laster",
+                "email": "districtj@houstontx.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            }
+        ],
+        "Plano": [
+            {
+                "name": "Harry LaRosiliere",
+                "email": "mayor@plano.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Kayci Prince",
+                "email": "kayciprince@plano.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Anthony Ricciardelli",
+                "email": "aricciardelli@plano.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Maria Tu",
+                "email": "mariatu@plano.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Rick Grady",
+                "email": "rickgrady@plano.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Shelby Williams",
+                "email": "shelbywilliams@plano.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Rick Smith",
+                "email": "ricksmith@plano.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Lily Bao",
+                "email": "lilybao@plano.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            }
+        ]
+    },
+    "Washington": {
+        "Seattle": [
+            {
+                "name": "Jenny Durkan",
+                "email": "jenny.durkan@seattle.gov",
+                "title": "mayor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Lisa Herbold",
+                "email": "lisa.herbold@seattle.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Tammy Morales",
+                "email": "tammy.morales@seattle.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Kshama Sawant",
+                "email": "kshama.sawant@seattle.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "female"
+            },
+            {
+                "name": "Alex Pedersen",
+                "email": "alex.pedersen@seattle.gov",
+                "title": "councilor",
+                "party": "nonpartisan",
+                "gender": "male"
+            },
+            {
+                "name": "Debora Juerez",
+                "email": "debora.juarez@seattle.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            },
+            {
+                "name": "Dan Strauss",
+                "email": "dan.strauss@seattle.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Andrew Lewis",
+                "email": "andrew.lewis@seattle.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "male"
+            },
+            {
+                "name": "Teresa Mosqueda",
+                "email": "teresa.mosqueda@seattle.gov",
+                "title": "councilor",
+                "party": "",
+                "gender": "female"
+            }
+        ]
+    }
+}
