@@ -12,14 +12,14 @@
                 "name": "Betty Guardado",
                 "email": "council.district.5@phoenix.gov",
                 "title": "vice mayor",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "female"
             },
             {
                 "name": "Thelda Williams",
                 "email": "council.district.1@phoenix.gov",
                 "title": "councilor",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "female"
             },
             {
@@ -40,14 +40,14 @@
                 "name": "Laura Pastor",
                 "email": "council.district.4@phoenix.gov",
                 "title": "councilor",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "female"
             },
             {
                 "name": "Sal DiCiccio",
                 "email": "council.district.6@phoenix.gov",
                 "title": "councilor",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "male"
             },
             {
@@ -183,7 +183,7 @@
                 "name": "Lee Brand",
                 "email": "lee.brand@fresno.gov",
                 "title": "mayor",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "male"
             },
             {
@@ -232,7 +232,7 @@
                 "name": "Wilma Quan",
                 "email": "wilma.quan@fresno.gov",
                 "title": "city manager",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "female"
             }
         ],
@@ -355,7 +355,7 @@
                 "name": "Libby Schaaf",
                 "email": "officeofthemayor@oaklandnet.com",
                 "title": "mayor",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "female"
             },
             {
@@ -390,7 +390,7 @@
                 "name": "Sheng Thao",
                 "email": "district4@oaklandca.gov",
                 "title": "councilor",
-                "party": "non-partisian",
+                "party": "nonpartisan",
                 "gender": "female"
             },
             {
