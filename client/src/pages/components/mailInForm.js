@@ -19,37 +19,50 @@ class MailInForm extends Component {
         }
     }
 
+    onRecipientSubmit = () => {
+        this.setState({
+            recipientsNotSubmitted: false
+        });
+        // network calls and other stuff
+    }
+
+    onEmailSubmit = () => {
+        this.setState({
+            emailNotSubmitted: false
+        });
+    }
+
+    onSubjectSubmit = () => {
+        this.setState({
+            subjectNotSubmitted: false
+        });
+    }
+
+    onNameSubmit = () => {
+        this.setState({
+            nameNotSubmitted: false
+        });
+    }
+
     renderSwitch() {
         if (this.state.recipientsNotSubmitted) {
             return dc.stateRecipientSelection((e) => {
                 this.setState({
                     recipients: e.target.value
                 })
-            }, () => {
-                this.setState({
-                    recipientsNotSubmitted: false
-                })
-            });
+            }, this.onRecipientSubmit);
         } else if (this.state.emailNotSubmitted) {
             return dc.getEmail((e) => {
                 this.setState({
                     email: e.target.value
                 });
-            }, () => {
-                this.setState({
-                    emailNotSubmitted: false
-                });
-            });
+            }, this.onEmailSubmit);
         } else if (this.state.subjectNotSubmitted) {
             return dc.getSubject((e) => {
                 this.setState({
                     subject: e.target.value
                 });
-            }, () => {
-                this.setState({
-                    subjectNotSubmitted: false
-                });
-            });
+            }, this.onSubjectSubmit);
         } else if (this.state.messageNotSubmitted) {
             return this.getMessage();
         } else if (this.state.nameNotSubmitted) {
@@ -57,11 +70,7 @@ class MailInForm extends Component {
                 this.setState({
                     name: e.target.value
                 });
-            }, () => {
-                this.setState({
-                    nameNotSubmitted: false
-                });
-            });
+            }, this.onNameSubmit);
         } else {
             return dc.getEndOfFlow();
         }
