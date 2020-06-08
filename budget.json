@@ -1,0 +1,181 @@
+[
+  {
+    "Massachusetts": {
+      "police": 1761805461,
+      "cities": [
+      {
+          "name": "Boston",
+          "police": 414182026,
+          "housing": 317514
+        },
+        {
+          "name": "Cambridge",
+          "police": 65925945,
+          "housing": 2336915,
+          "community development": 12411820
+        }
+      ]
+    }
+  },
+  {
+    "New York": {
+      "police": 166093000,
+      "cities": [
+        {
+          "name": "New York City",
+          "police":51682000,
+          "housing": 2127269
+        },
+        {
+          "name": "Buffalo",
+          "police": 74541474,
+          "community development": 492622
+        },
+        {
+          "name": "Rochester",
+          "police": 2368300
+        },
+        {
+          "name": "Albany",
+          "police": 54266365 
+        }
+      ]
+    }
+  },
+  {
+    "Washington": {
+      "police": null,
+      "cities": [
+        {
+          "name": "Seattle",
+          "police": 363370000
+        },
+        {
+          "name": "Spokane",
+          "police": 64182339
+        }
+      ]
+    }
+  },
+  {
+    "Ohio": {
+      "police": 9543869,
+      "cities": [
+        {
+          "name": "Akron",
+          "police": 66823550
+        },
+        {
+          "name": "Cleveland",
+          "police": 218370376
+        },
+        {
+          "name": "Columbus",
+          "police": 361418946
+        }
+      ]
+    }
+  },
+  {
+    "Maine": {
+      "police": 20828000,
+      "cities": [
+        {
+          "name": "Portland",
+          "police": 17757540
+        }
+      ]
+    }
+  },
+  {
+    "California": {
+      "cities": [
+        {
+          "name": "San Francisco",
+          "police": 738689486
+        },
+        {
+          "name": "Oakland",
+          "police": 334000000
+        },
+        {
+          "name": "Los Angeles",
+          "police": 1857330549
+        },
+        {
+          "name": "Sacramento",
+          "police": 48155000
+        },
+        {
+          "name": "San Jose",
+          "police": 449177442,
+          "deadline": "06-16-2020"
+        },
+        {
+          "name": "San Diego",
+          "police": 566493840
+ 
+        }
+      ]
+    }
+  },
+  {
+    "Georgia": {
+      "police": 137951881,
+      "cities": [
+        {
+          "name": "Atlanta",
+          "police": 248508776
+        }
+      ]
+    }
+  },
+  {
+    "Texas": {
+      "police": 14000000,
+      "cities": [
+        {
+          "name": "Dallas",
+          "police": 509140287
+        },
+        {
+          "name": "Austin",
+          "police": null
+        }, 
+        {
+          "name": "Houston",
+          "police": 964837483
+        }
+      ]
+    }
+  },
+  {
+    "Colorado": {
+      "police": 175620856,
+      "cities": [
+        {
+          "name": "Denver",
+          "police": 254232367
+        },
+        {
+          "name": "Boulder",
+          "police": 38629082
+        }
+      ]
+    }
+  },
+  {
+    "Illinois": {
+      "police": 731921700,
+      "cities": [
+        {
+          "name": "Chicago",
+          "police": 1778002408
+        }
+      ]
+    }
+  } 
+  
+
+  
+]
