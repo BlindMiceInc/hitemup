@@ -16,11 +16,8 @@ def main():
         state_href = state.find('a')['href']
         city = state_href.split('?')[0][1:]
         location_url = URL+state_href
-        if state_abv not in data:
-            data[state_abv] = {city:{'url':location_url}}
-        else:
-            data[state_abv][city] = {'url':location_url}
-        
+
+
         city_page = requests.get(location_url)
         city_soup = BeautifulSoup(city_page.content, 'html.parser')
         city_results = city_soup.find(class_='emailContent')
@@ -31,6 +28,18 @@ def main():
         for sentence in result_split:
             if any(re.findall(r'\$|million|billion', sentence, re.IGNORECASE)):
                 budget_sentences.append(sentence)
+
+        if budget_sentences:
+            if state_abv not in data.keys():
+                data[state_abv] = {city:{'url':location_url, 'budgets':budget_sentences}}
+            else:
+                data[state_abv][city] = {'url':location_url, 'budgets':budget_sentences}
+        else:
+            continue
+
+
+
+
 
         data[state_abv][city]['budgets'] = budget_sentences
 

@@ -5,16 +5,15 @@
             "budgets": [
                 "The recently passed budget for 2020 suggests that the largest fraction of the city\u2019s budget should go to policing ($92,775,797), which is over 30% larger than even the second largest allocation of funds, fire ($67,814,889).\nBirmingham is planning to spend $19,959,925 on Education, Transportation, Housing for Mentally Ill, Youth Programs, City Owned Arts/Recreation Centers, Emergency Medical System, and Social Services"
             ]
-        },
-        "huntsville": {
-            "url": "https://defund12.org//huntsville?browse",
-            "budgets": []
         }
     },
     "AR": {
-        "littlerock": {
-            "url": "https://defund12.org//littlerock?browse",
-            "budgets": []
+        "bentoncounty": {
+            "url": "https://defund12.org//bentoncounty?browse",
+            "budgets": [
+                "I believe that changes will begin by defunding law enforcement and investing in community programs and infrastructure.\nMillions of dollars every year have been funneled toward law enforcement and mass incarceration systems that are harming our communities more than helping them",
+                "Benton County\u2019s total budget for 2019 was roughly $80 million 1"
+            ]
         }
     },
     "AZ": {
@@ -26,25 +25,27 @@
                 "The current City Manager recommendation is $741 million, a $20 million increase, yet they can\u2019t provide $3 million to OAT.\nEnding police brutality should be a budget priority"
             ]
         },
-        "tempe": {
-            "url": "https://defund12.org//tempe?browse",
-            "budgets": []
-        },
-        "tuscon": {
-            "url": "https://defund12.org//tuscon?browse",
+        "tucson": {
+            "url": "https://defund12.org//tucson?browse",
             "budgets": [
                 "It is time to cut funding for the Tucson Police Department.\nIn the previous budget, police received $193,274,430, more than Parks and Recreation ($53,126,400) and Housing and Community Development ($89,091,600)"
             ]
         }
     },
     "CA": {
-        "albany": {
-            "url": "https://defund12.org//albany?browse",
-            "budgets": []
+        "anaheim": {
+            "url": "https://defund12.org//anaheim?browse",
+            "budgets": [
+                "Anaheim is no different: the 2019-2020 budget allocated $153.8 million to law enforcement and only $1 million to community development.\nAnaheim is the 9th most violent police department in the U.S",
+                "Since 2014, the rate of arrest-related deaths caused by Anaheim PD exceeds that of LAPD, NYPD, and San Fran PD and is 74% higher than the average for police in California.\nI demand that the city council not approve \u201cResolution 19\u201d that would spend $700,000 dollars of taxpayer money on surveillance technology of anti-police brutality protests and that any future projects related to surveillance be halted",
+                "I also demand that the council not approve \u201cResolution 5\u201d that will use $100,000 to improve 10 police vehicles"
+            ]
         },
-        "bakersfield": {
-            "url": "https://defund12.org//bakersfield?browse",
-            "budgets": []
+        "antioch": {
+            "url": "https://defund12.org//antioch?browse",
+            "budgets": [
+                "I am writing to demand that the Antioch City Council adopt a budget that redirects funding away from the police and prioritizes community wellbeing.\nIn 2019, the City of Antioch allocated 44 million dollars to our police system, in comparison to 4 million dollars directed towards community development"
+            ]
         },
         "belmont": {
             "url": "https://defund12.org//belmont?browse",
@@ -65,6 +66,18 @@
                 "Instead of allocating 48.8% ($27 million dollars) of funds towards the Police Force, and only 2% (1.1 million dollars) towards developing our community, I ask you to reallocate funds from the police department to other areas that desperately need it"
             ]
         },
+        "chowchilla": {
+            "url": "https://defund12.org//chowchilla?browse",
+            "budgets": [
+                "Furthermore, I urge you to pressure the office of the mayor towards an ethical and equal reallocation of the Chowchilla expense budget, away from the local PD and towards social services and education programs.\nThe grand total department appropriations for the City of Chowchilla Police Department is $4,142,644 for the 2019-2020 year"
+            ]
+        },
+        "claremont": {
+            "url": "https://defund12.org//claremont?browse",
+            "budgets": [
+                "I am writing to demand that the Claremont City Council adopt a city budget that prioritizes community well-being, and redirects funding away from the police.\nIn FY2019, the City of Claremont allocated an egregious $12,496,360 to our police department"
+            ]
+        },
         "dalycity": {
             "url": "https://defund12.org//dalycity?browse",
             "budgets": [
@@ -72,17 +85,12 @@
                 "What we are also seeing is more and more evidence that community safety is much more likely to occur when people\u2019s needs are being met.\nWe must consider how far that $36 million would go with other non-violent, prevention-oriented services that address our livelihoods and humanity such as health services, social services, infrastructure, childcare assistance, homelessness services, libraries, and our parks and recreation services"
             ]
         },
-        "elkgrove": {
-            "url": "https://defund12.org//elkgrove?browse",
-            "budgets": []
-        },
-        "eureka": {
-            "url": "https://defund12.org//eureka?browse",
-            "budgets": []
-        },
-        "fairfield": {
-            "url": "https://defund12.org//fairfield?browse",
-            "budgets": []
+        "elcerrito": {
+            "url": "https://defund12.org//elcerrito?browse",
+            "budgets": [
+                "That\u2019s $12.5 million being used at the expense of vital public services like housing and healthcare.\nThe investment in policing has not made us safer\u2014rather, it poses a lethal threat to Black and Brown communities, as well as those who are unhoused and suffering from mental illness",
+                "As shown in several reports, there is no correlation between police spending and community safety.\nFurthermore, as you know, El Cerrito faces a $4 million deficit in fiscal year 2020-\u201921"
+            ]
         },
         "fremont-ca": {
             "url": "https://defund12.org//fremont-ca?browse",
@@ -90,19 +98,17 @@
                 "Last year, the Fremont PD budget was $93,307,000, almost all of which comes from the Fremont general fund"
             ]
         },
+        "fresno": {
+            "url": "https://defund12.org//fresno?browse",
+            "budgets": [
+                "As you may well know this year, city council officials are expecting a budget deficit of $32 million due to Covid-19.\nThe Fresno Police Department makes up approximately 53% of the city\u2019s budget, more than the budgets of FAX, PARCS, Human Services, Affordable Housing, and economic development COMBINED"
+            ]
+        },
         "fullerton": {
             "url": "https://defund12.org//fullerton?browse",
             "budgets": [
                 "I am writing to demand that the Fullerton City Council adopts a budget that prioritizes community well-being and redirects funding away from the police.\nAccording to the Fullerton city website, the proposed budget for the 2020-2021 fiscal year allocates 47% of the general fund ($49,860,929) to the Fullerton Police Force"
             ]
-        },
-        "glendale": {
-            "url": "https://defund12.org//glendale?browse",
-            "budgets": []
-        },
-        "hayward": {
-            "url": "https://defund12.org//hayward?browse",
-            "budgets": []
         },
         "hollister": {
             "url": "https://defund12.org//hollister?browse",
@@ -113,28 +119,20 @@
                 "It has been estimated that there will be a 54 billion dollar deficit in the California state budget as a result of the pandemic"
             ]
         },
+        "lahabra": {
+            "url": "https://defund12.org//lahabra?browse",
+            "budgets": [
+                "The La Habra police department\u2019s total budget of $20 million makes up 45.5% of the general city budget, according to the annual budget of 2019-2020",
+                "So while other services are being decreased, the police continues to get an increase on their annual budget.\nThen we have the Police Chief who made $172,738 in 2018 (p",
+                "3 of the annual salary) while a public teacher in La Habra makes an average of $64,916 their first year and barely reach $114,000 after 25 years of teaching, according to the La Habra City School District Salary website"
+            ]
+        },
         "lafayette": {
             "url": "https://defund12.org//lafayette?browse",
             "budgets": [
                 "We are demanding that our voices be heard and that real change be made to the way this city allocates its resources.\nThe fact that the Lafayette Police Department encompasses over $6 million of the city\u2019s general operating fund (already over 3 times MORE than public works or city planning) with apparent goals to increase by hundreds of thousands of dollars each year is shameful and unproductive",
                 "We need to reimagine public safety to prioritize alternatives to conflict rather than defaulting to violence.\nI demand the immediate freezing of budget increases to the police force, cancelling of cadet classes, demilitarization of our forces, and reallocation of funds from police to community-led health and safety strategies.\nI urge you not to vote to increase police funding by over $500,000"
             ]
-        },
-        "longbeach": {
-            "url": "https://defund12.org//longbeach?browse",
-            "budgets": []
-        },
-        "losaltos": {
-            "url": "https://defund12.org//losaltos?browse",
-            "budgets": []
-        },
-        "losaltoshills": {
-            "url": "https://defund12.org//losaltoshills?browse",
-            "budgets": []
-        },
-        "la": {
-            "url": "https://defund12.org//la?browse",
-            "budgets": []
         },
         "lacounty": {
             "url": "https://defund12.org//lacounty?browse",
@@ -156,10 +154,32 @@
                 "Within the community development budget in 2018, $4.5 million (72% of the Community Development budget) was spent on Construction Regulation and no money was allocated to housing, redevelopment or employment.\nI demand that the City Council begin meaningfully defunding the Menlo Park Police Department and reallocate those funds to programs proven to more effectively promote a safe and equitable community: community-based mental health services, substance abuse treatment services, affordable housing programs, and more"
             ]
         },
+        "merced": {
+            "url": "https://defund12.org//merced?browse",
+            "budgets": [
+                "I am writing to demand that the City Council adopt a budget strategy that prioritizes community well-being and redirects funding away from the police in the next budget evaluation period.\nWe have seen mounting evidence that police departments are ineffective institutions that marginalize minority communities and put citizens at risk of injury and death, yet the police budget accounts for 20.7 million of a 44.6 million dollar fund - this is 46% of the budget",
+                "Real, actionable change starts with reallocating funding in a manner consistent with these priorities.\nThe additional allocation of approximately $4M (or 2/3rds) of Measure C funds also being directed towards the Merced Police Department is unacceptable"
+            ]
+        },
+        "modesto": {
+            "url": "https://defund12.org//modesto?browse",
+            "budgets": [
+                "We demand that the City Council defund the Modesto Police Department, which receives at least $69.5 Million, and redirect that money to much needed services and resources for our community"
+            ]
+        },
         "mountainview": {
             "url": "https://defund12.org//mountainview?browse",
             "budgets": [
                 "I am demanding that our voices be heard, and that real change be made to the way this city allocates its resources.\nThe fact that the MVPD encompasses over 42 million dollars of the city\u2019s general operating fund is shameful and unproductive"
+            ]
+        },
+        "nevada-county": {
+            "url": "https://defund12.org//nevada-county?browse",
+            "budgets": [
+                "For the Fiscal Year 2019-2020 in Grass Valley alone, the General Fund Expenditures was $13,093,905",
+                "The final budget for the GVPD was $4,141,770",
+                "Nevada City PD budgeted 45.3% of the General Fund Expenditures ($2,096,760 out of the $4,632,239 Nevada City General Fund)",
+                "The Truckee Police Department was allocated $6,629,802 out of $23,177,108 in the General Fund.\nWhile we\u2019ve been spending extraordinary amounts on policing, we have not seen improvements to safety, homelessness, mental health, or affordability in our city"
             ]
         },
         "oakland": {
@@ -169,9 +189,12 @@
                 "With Oakland\u2019s current finances in dire jeopardy, it is clear that we must defund the police.\nAs Oakland residents, we therefore demand that you take immediate action to ensure the following:\n\nReduce OPD\u2019s allocation from the General Fund by 50% (roughly $150 Million)\nDisallow unauthorized overtime by OPD\nDiscontinue use of general fund dollars to pay for settlements due to police murder, misconduct, and negligence\nInvest in housing, jobs, youth programs, restorative justice, and mental health workers to keep the community safe.\n\nOakland can not wait any longer for a budget that meets the needs of its residents"
             ]
         },
-        "orange_county": {
-            "url": "https://defund12.org//orange_county?browse",
-            "budgets": []
+        "oxnard": {
+            "url": "https://defund12.org//oxnard?browse",
+            "budgets": [
+                "Furthermore, they want their cities to dramatically reduce the role police play in our society.\nIn 2019, the City of Oxnard allocated $62,740,000 to our police system, an inordinate 44% of our total general fund budget",
+                "This is a 17% ($10,240,000) increase from OPD\u2019s 2016 budget"
+            ]
         },
         "paloalto": {
             "url": "https://defund12.org//paloalto?browse",
@@ -199,6 +222,13 @@
                 "Where should that money come from? The projected $30+ million to be allocated towards PPD this fiscal year.\nI am demanding that this money be reallocated from the police department because it is an inherently harmful organization that has not responded to reform"
             ]
         },
+        "ranchocucamonga": {
+            "url": "https://defund12.org//ranchocucamonga?browse",
+            "budgets": [
+                "I am writing to you because I am concerned with the city\u2019s growing police funding and budget cuts to other services.\nThe preliminary budget for 2020/21 increases the amount allocated to the police from $42,327,060 to $44,869,070",
+                "Less than $7,000,000 is budgeted for these community development services, while the police get over $44,000,000.\nThe police in America have never been meant to protect those who are low income and people of color"
+            ]
+        },
         "redwoodcity": {
             "url": "https://defund12.org//redwoodcity?browse",
             "budgets": [
@@ -216,6 +246,12 @@
             "url": "https://defund12.org//ripon?browse",
             "budgets": [
                 "The budget for 2019-2020 suggests that the largest fraction of the city\u2019s budget should go to policing ($6,557,258) whereas the budget for the community center is a mere $98,971.\nIf this is truly representative of the council\u2019s thoughts on how funds should be allocated, I am ashamed to call Ripon my home, and I am ashamed to call you my elected officials.\nTransitioning funding away from policing and into community programming such as educational opportunities, arts programs, community centers, healthcare, and mental health resources will strengthen our communities and make them safer for everyone"
+            ]
+        },
+        "riverside": {
+            "url": "https://defund12.org//riverside?browse",
+            "budgets": [
+                "I am writing to demand that the Riverside City Council adopt a city budget that prioritizes community wellbeing, and redirects funding away from the police.\nIn 2019, the City of Riverside directed $123,598,355 of General Fund money to the police, representing 44% of the total budget alongside additional Measure Z funds"
             ]
         },
         "riverside-county": {
@@ -237,19 +273,17 @@
                 "At the same time, our Library and Community Services Department is projected to lose $326,000 of their funding having only received 8% of our budget as it were.\nThis is unacceptable"
             ]
         },
-        "sandiego": {
-            "url": "https://defund12.org//sandiego?browse",
-            "budgets": []
-        },
         "sanfrancisco": {
             "url": "https://defund12.org//sanfrancisco?browse",
             "budgets": [
                 "Last year, the SFPD budget was $611,701,869, the majority of which comes from the San Francisco general fund"
             ]
         },
-        "sanjose": {
-            "url": "https://defund12.org//sanjose?browse",
-            "budgets": []
+        "sangabriel": {
+            "url": "https://defund12.org//sangabriel?browse",
+            "budgets": [
+                "I am demanding that you root out systemic and institutional racism by defunding the police and prioritizing and reallocating much-needed funds (especially due to the effects of COVID-19) towards social programs and resources that support housing, jobs, education, health care, child care, and other critical community needs.\nAccording to the proposed budget for the fiscal year 2020-2021, 38% of the General Fund ($41,196,514) is allocated to the SGPD"
+            ]
         },
         "sanleandro": {
             "url": "https://defund12.org//sanleandro?browse",
@@ -289,6 +323,15 @@
                 "Last year, the SCPD budget totaled over $30,000,000, most coming from the general fund \u2013 Over twice as much as any other single department, including firefighters"
             ]
         },
+        "santamaria": {
+            "url": "https://defund12.org//santamaria?browse",
+            "budgets": [
+                "I am writing to demand that the Santa Maria City Council adopt a city budget that prioritizes community wellbeing, and redirects funding away from the police.\nIn 2019, the City of Santa Maria allocated 34 million dollars to our police system, an inordinate 42.5% of our total budget",
+                "This is compared to just $4 million allocated towards community development (5.0% of the budget)",
+                "Within the community development budget, $1.2 million was projected to be spent on CDBG & HOME Programs (3.5% of the city\u2019s budget).\nThis is a direct quote from the City of Santa Maria Budget 18\u2019-20\u2019, \u201cThe City Council-appointed Block Grants Advisory Committee received a total of 32 applications requesting well over $1.4 million in CDBG funds for 2018-19",
+                "However, the City is only expecting to receive $1.3 million in CDBG funding"
+            ]
+        },
         "santamonica": {
             "url": "https://defund12.org//santamonica?browse",
             "budgets": [
@@ -303,9 +346,11 @@
                 "According to the Urban Institute, in 1977, state and local governments spent $60 billion on police and corrections.[1] In 2017, they spent $194 billion"
             ]
         },
-        "scottsvalley": {
-            "url": "https://defund12.org//scottsvalley?browse",
-            "budgets": []
+        "southsanfrancisco": {
+            "url": "https://defund12.org//southsanfrancisco?browse",
+            "budgets": [
+                "How will our city address the police brutality and systematic oppression we see occurring across the nation and in our own city?\nCurrently, the proposed budget for the next fiscal year would allocate $31,935,228\u201428% of the proposed $112,416,313 general fund\u2014to the police department"
+            ]
         },
         "stockton": {
             "url": "https://defund12.org//stockton?browse",
@@ -325,15 +370,32 @@
                 "I am writing to you today because it has come to my attention that the Union City proposed budget for the 2020-2021 fiscal year helps to uphold this same system.\nUnion City council states that it prides itself on the City\u2019s diversity and core values of \u201csafety, tolerance, and caring.\u201d However, the proposed $26,015,635 to be allocated to UCPD from the City\u2019s 2020-2021 General Funds states otherwise"
             ]
         },
+        "upland": {
+            "url": "https://defund12.org//upland?browse",
+            "budgets": [
+                "This, combined with a global pandemic with severe economic consequences, brings the issue of police budgeting to the forefront.\nThe 2019-20 Upland budget called for 54% of its General Fund Expenditure ($22.6 million of $41.9 million) to go towards the Upland Police Department, an even larger proportion than cities like Oakland (41%) and Houston (32%)"
+            ]
+        },
         "vallejo-ca": {
             "url": "https://defund12.org//vallejo-ca?browse",
             "budgets": [
                 "We have one of the highest amounts of lawsuit payouts in the Bay Area, having paid out more than $7 million in civil rights lawsuit settlements involving our police department since 2011"
             ]
         },
-        "ventura": {
-            "url": "https://defund12.org//ventura?browse",
-            "budgets": []
+        "walnut-creek": {
+            "url": "https://defund12.org//walnut-creek?browse",
+            "budgets": [
+                "\n\nTo: \ud83d\udd17\n                justin@justinwedel.com, kwilk@walnut-creek.org, cindy@cindysilva.org, francois@walnut-creek.org, mayor@walnut-creek.org\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Haskew and City Council Members,\nMy name is [YOUR NAME] and I am a Walnut Creek resident writing to urge you to defund the Walnut Creek Police Department.\nWCPD takes up 30% ($52.1M) of the city\u2019s general fund, and that percentage has risen for the last two decades, taking away desperately needed resources from essential city programs and services",
+                "The entire budget for Community & Economic Development only accounts for 8% ($14.9M) of the city\u2019s budget",
+                "With Walnut Creek\u2019s current finances in dire jeopardy, it is clear that we must defund the police.\nAs Walnut Creek residents, we therefore demand that you take immediate action to ensure the following:\n\nReduce WCPD\u2019s allocation from the General Fund by 50% (roughly $26M)\nDisallow unauthorised overtime by WCPD\nDiscontinue use of general fund dollars to pay for settlements due to police murder, misconduct, and negligence\nInvest in housing, jobs, youth programs, restorative justice, and mental health workers to keep the community safe.\n\nWalnut Creek can not wait any longer for a budget that meets the needs of its residents"
+            ]
+        },
+        "westcovina": {
+            "url": "https://defund12.org//westcovina?browse",
+            "budgets": [
+                "The City of West Covina, per the 2020-2021 Preliminary Budget, allocates $31,163,716 (47%) to law enforcement, yet only 9% of this money is distributed to actual materials and services! The remaining 91% of the police\u2019s budget ($30,543,800) is reserved for the salaries of officers.\nWest Covina is ranked 17th out of 471 cities in California facing fiscal challenges",
+                "If we do not reform our budget now and invest in our community, we will be bankrupt in the next few years.\nDespite our pressing financial issue, in October 2019, the West Covina City Council voted 4-1 to raise the salaries of police officers by 12%, which will ultimately cost taxpayers around $600,000 in this current fiscal year and double that the following year"
+            ]
         }
     },
     "CO": {
@@ -359,7 +421,7 @@
         "denver": {
             "url": "https://defund12.org//denver?browse",
             "budgets": [
-                "With record unemployment and a seemingly intractable pattern of abuse and unequal treatment by police, our city needs a budget that adequately and effectively meets the needs of at-risk Denver residents.\nFor FY2020, over $500,000,000 was allocated for policing (40% of the budget) while only $7.7m was allocated for safety net programs"
+                "With record unemployment and a seemingly intractable pattern of abuse and unequal treatment by police, our city needs a budget that adequately and effectively meets the needs of at-risk Denver residents.\nFor FY2020, over $405,000,000 was allocated for policing (29% of the general fund budget) while less than $217m was allocated for health, housing stability, economic development, and parks and recreation combined"
             ]
         },
         "fort-collins": {
@@ -368,16 +430,14 @@
                 "Last year, the FCPD cost the City of Fort Collins $87.7 million, while only a mere $12.8 million was spent on affordable housing and social health"
             ]
         },
-        "pueblo": {
-            "url": "https://defund12.org//pueblo?browse",
-            "budgets": []
+        "westminster": {
+            "url": "https://defund12.org//westminster?browse",
+            "budgets": [
+                "With record unemployment and a seemingly intractable pattern of abuse and unequal treatment by police, our city needs a budget that adequately and effectively meets the needs of at-risk Westminster residents.\nFor FY2020, nearly $27 million was allocated for policing (20% of the budget) while only $6.5m was allocated for community development programs"
+            ]
         }
     },
     "CT": {
-        "hartford": {
-            "url": "https://defund12.org//hartford?browse",
-            "budgets": []
-        },
         "newhaven": {
             "url": "https://defund12.org//newhaven?browse",
             "budgets": [
@@ -405,17 +465,13 @@
                 "Meanwhile, the 2020 budget for community development is abysmally low at only $248,147 (a 0.2% decrease from 2019 to 2020)",
                 "It is shameful and unacceptable that our police receive more than 60 times the amount of funding that our community development programs receive, and over 500 times the amount allocated for social services (currently funded at a measly $30,000)"
             ]
-        },
-        "wilmington": {
-            "url": "https://defund12.org//wilmington?browse",
-            "budgets": []
         }
     },
     "FL": {
         "gainesville": {
             "url": "https://defund12.org//gainesville?browse",
             "budgets": [
-                "\n\nTo: citycomm@cityofgainesville.org,poelb@cityofgainesville.org,mayor@cityofgainesville.org,johnson1@cityofgainesville.org,warrenhk@cityofgainesville.org,simmonsgg@cityofgainesville.org,wardhl@cityofgainesville.org,arreoladi@cityofgainesville.org,hayessantosa@cityofgainesville.org,byerly@alachuacounty.us,mwheeler@alachuacounty.us,rhutchinson@alachuacounty.us,kcornell@alachuacounty.us,cschestnut@alachuacounty.us\n                \ud83d\udd17\n\n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Hello,\nMy name is [NAME], and I am an Alachua County resident.\nI DEMAND THAT YOU, MY LOCAL OFFICIALS, WILL:\n\nVote no on all increases to police budgets.\nVote yes to decrease police spending and budgets.\nVote yes to increase spending on health care, education and community programs that keep us safe.\n\nIn 2020, the City of Gainesville has allocated $42.25 million dollars to the police department, and $59.66 million to law enforcement in general",
+                "\n\nTo: \ud83d\udd17\n                citycomm@cityofgainesville.org, poelb@cityofgainesville.org, mayor@cityofgainesville.org, johnsong1@cityofgainesville.org, warrenhk@cityofgainesville.org, simmonsgg@cityofgainesville.org, wardhl@cityofgainesville.org, arreoladi@cityofgainesville.org, hayessantosa@cityofgainesville.org, byerly@alachuacounty.us, mwheeler@alachuacounty.us, rhutchinson@alachuacounty.us, kcornell@alachuacounty.us, cschestnut@alachuacounty.us\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Hello,\nMy name is [NAME], and I am an Alachua County resident.\nI DEMAND THAT YOU, MY LOCAL OFFICIALS, WILL:\n\nVote no on all increases to police budgets.\nVote yes to decrease police spending and budgets.\nVote yes to increase spending on health care, education and community programs that keep us safe.\n\nIn 2020, the City of Gainesville has allocated $42.25 million dollars to the police department, and $59.66 million to law enforcement in general",
                 "Housing and Urban Planning\u2013 something residents everywhere but especially on the East side need\u2013 was allocated 6.06 million.\nPeople of color in American, specifically Black people, already know that the police don\u2019t keep neighborhoods and communities safe",
                 "Black people like Tony McDade (Tallahassee), Trayvon Martin (Orlando), and Jamee Johnson (Jacksonville) cannot keep dying at the hands of police and white actors emboldened by the state.\nIn a time when Black people are facing challenges to their lives such as COVID-19, which disproportionately affects communities of color, there is no excuse for the $500,000 increase in funds to law enforcement for the 2020-2021 fiscal year.\nThe City of Gainesville needs an affordable grocery store on the Eastside"
             ]
@@ -439,10 +495,18 @@
                 "Rather than prioritize quality of life for all of Orlando with a proportional housing and development budget, Mayor Dyer chose to prioritize OPD with a budget of 187,104,901 (13.7% of total budget) with an additional $4,432,857 for non-departmental costs.\nI am emailing today to demand that you vote against the Mayor\u2019s 2020-2021 proposed budget"
             ]
         },
+        "palmbeachcounty": {
+            "url": "https://defund12.org//palmbeachcounty?browse",
+            "budgets": [
+                "Last May, Palm Beach County Sheriff Ric Bradshaw requested a 6% hike in funding for his department, proposing an annual budget of $703 million for 2020 with $75 million set aside for replacing vehicles in the next five years",
+                "According to the Palm Beach County Fiscal Year 2020 Budget, the Sheriff\u2019s Office was appropriated more than $725.8 million\u2014an 8% increase from 2019.\nCombined with federal and municipal-level funding, the full financial cost of policing in our area dramatically dwarfs support for resources that would enrich and protect Florida communities: youth programs, food security, mental health and wellness, free public transport, affordable housing, universal childcare, substance abuse prevention and treatment, and more.\nFor example, the 2020 budget awarded $813,582 to the Office of Equal Opportunity, which has a staff of 12 working on disability access, equal employment, and fair housing",
+                "The Criminal Justice Commission received just $750,417 from the county to support 11 staff members working to reduce pretrial detentions, incarceration rates, and racial disparities"
+            ]
+        },
         "stpete": {
             "url": "https://defund12.org//stpete?browse",
             "budgets": [
-                "This amounts to a staggering $116,368,000"
+                "This amounts to a staggering $116,367,838 for the police"
             ]
         },
         "tallahassee": {
@@ -454,7 +518,7 @@
         "tampa": {
             "url": "https://defund12.org//tampa?browse",
             "budgets": [
-                "Programs such as housing, education, jobs and healthcare.\nThe recommended police department budget for 2020 according to the publicly released budget expense report came in at over $162,000,000"
+                "\n\nTo: \ud83d\udd17\n                jane.castor@tampagov.net, tampacitycouncil@tampagov.net, joseph.citro@tampagov.net, charlie.miranda@tampagov.net, john.dingfelder@tampagov.net, bill.carlson@tampagov.net, orlando.gudes@tampagov.net, guido.maniscalco@tampagov.net, luis.viera@tampagov.net\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Jane Castor & Tampa City Council,\nMy name is [INSERT NAME] and I am a resident of [INSERT NEIGHBORHOOD, SUBDIVISION, CITY, ETC], today I am writing to you to demand that the mayor and the city council restrict the police department budjet, and fully reallocate towards community programs, housing, and education to actually keep our community safe.\nThe recommended police department budget for 2020 is over $162,000,000\u201337% of the general fund"
             ]
         }
     },
@@ -465,20 +529,25 @@
                 "The fiscal budget allocates around $46 million to the Athens\u2010Clarke County Police Department",
                 "As an Athens resident, I therefore demand that you take immediate action to ensure the following:\n\nReduce Athens\u2010Clarke County Police Department\u2019s allocation from the General Fund by 50% (approximately $23 million)\nDiscontinue use of general fund dollars to pay for settlements due to police murder, misconduct, and negligence\nInvest in housing, jobs, access to food, healthcare, child care, restorative justice, and mental health workers to keep the community safe\n\nAthens cannot wait any longer for a budget that meets the needs of its residents"
             ]
-        },
-        "atlanta": {
-            "url": "https://defund12.org//atlanta?browse",
-            "budgets": []
-        },
-        "savannah": {
-            "url": "https://defund12.org//savannah?browse",
-            "budgets": []
         }
     },
-    "IA": {
-        "desmoines": {
-            "url": "https://defund12.org//desmoines?browse",
-            "budgets": []
+    "HI": {
+        "honolulu": {
+            "url": "https://defund12.org//honolulu?browse",
+            "budgets": [
+                "I am writing to demand that Honolulu adopts a budget that prioritizes community wellbeing, and redirects funding away from the police.\nIn 2019, the City and County of Honolulu allocated $295,681,922 to our police",
+                "This is compared to just $112 million budgeted for ALL Community Services",
+                "Only $10.2 million was projected to be spent on the Housing First Program.\nAccording to lthawaii.gov there are approximately 15,000 homeless people in Hawai\u2019i",
+                "By diverting funds from the HPD budget of $296 million to the Housing First Project, we could drastically reduce this number"
+            ]
+        }
+    },
+    "ID": {
+        "boise": {
+            "url": "https://defund12.org//boise?browse",
+            "budgets": [
+                "Our community needs healing - not punishment because of the lack of resources and supports being offered.\nAccording to the City of Boise\u2019s budget, nearly 30%, or $70,006,493 is allocated to the Boise Police Department"
+            ]
         }
     },
     "IL": {
@@ -486,6 +555,12 @@
             "url": "https://defund12.org//chicago?browse",
             "budgets": [
                 "It is morally reprehensible to dedicate 40% of the City\u2019s operating budget (approximately $4 million per day) towards policing while thousands of citizens are homeless and many more lack access to essential services, including clean running water and necessary mental health resources.\nI also urge the City Council to enact legislation that holds police accountable and to overturn policies that allow police to engage in unlawful behavior with impunity.\nPeople are marching in the streets because they know that these actions will result in a healthier, more just society"
+            ]
+        },
+        "oakpark": {
+            "url": "https://defund12.org//oakpark?browse",
+            "budgets": [
+                "I am writing to demand that the Oak Park Village Board adopt a city budget that prioritizes community well-being, and redirects funding away from the police.\nIn 2019, the Village of Oak Park allocated $24,877,758 to our police system, an inordinate 33% of the Village general fund budget"
             ]
         }
     },
@@ -507,6 +582,12 @@
             "budgets": [
                 "I am writing about the fiscal year 2021 budget for the Consolidated City of Indianapolis Marion County.\nMayor Hogsett claims to be \u201cdedicated to investing Indianapolis\u2019 resources back into our neighborhoods,\u201d yet the 2020 budget allocated $253 million or 31% of the total budget to the IMPD"
             ]
+        },
+        "lafayette-in": {
+            "url": "https://defund12.org//lafayette-in?browse",
+            "budgets": [
+                "I am writing about the fiscal year 2021 budget for the City of Lafayette.\nMayor Roswarski stated that he wants \u201cto start a meaningful dialogue that will create tangible change and the opportunity for everyone to live a life of inclusion, free of racism and discrimination.\u201d I suggest that meaningful change starts with defunding the Lafayette Police.\nThe 2019 budget allocated over $19 million to the Lafayette Police Department, 28.5% of the total general fund budget "
+            ]
         }
     },
     "KS": {
@@ -523,12 +604,8 @@
         "lexington": {
             "url": "https://defund12.org//lexington?browse",
             "budgets": [
-                "The case\u2013along with its mishandling and lack of appropriate corrective actions regarding the officers involved\u2013has made national headlines and instigated protests from hundreds of thousands of people across the city, commonwealth, nation, and globe.\nI am therefore writing to demand that the LFUCG consider reapportioning general funds away from the LPD and towards social programs and other critical community needs effective at the beginning of FY20-21, July 1, 2020.\nIt is morally reprehensible to dedicate approximately $84 million dollars of the city\u2019s available funds to the LPD while cutting almost all funding to social service agencies, slashing the Affordable Housing Fund by 90%, and reducing funding for Homelessness initiatives by almost 50%.\nThrough a reallocation of funds, we can promote the well-being of citizens and reduce crime by sourcing community-based solutions, allowing residents to become invested in providing recommendations for improvements in criminal justice system operations and to engage in creating solutions that best serve their communities and their needs.\nI also urge the LFUCG to enact legislation that holds police members accountable and to overturn policies that allow police members to engage in unlawful behavior with impunity, and that an elected Civilian Oversight Committee be established with real reform powers"
+                "The case\u2013along with its mishandling and lack of appropriate corrective actions regarding the officers involved\u2013has made national headlines and instigated protests from hundreds of thousands of people across the city, commonwealth, nation, and globe.\nI am therefore writing to demand that the LFUCG consider reapportioning general funds away from the LPD and towards social programs and other critical community needs effective at the beginning of FY20-21, July 1, 2020.\nIt is morally reprehensible to dedicate approximately $84 million dollars of the city\u2019s available funds to the LPD while cutting almost all funding to social service agencies, slashing the Affordable Housing Fund by 90%, and reducing funding for Homelessness initiatives by almost 50%.\nThrough a reallocation of funds, we can promote the well-being of citizens and promote a safer city by sourcing community-based solutions, allowing residents to become invested in providing recommendations for improvements in criminal justice system operations and to engage in creating solutions that best serve their communities and their needs.\nI also urge the LFUCG to enact legislation that holds police members accountable and to overturn policies that allow police members to engage in unlawful behavior with impunity, and that an elected Civilian Oversight Committee be established with real enforcement powers"
             ]
-        },
-        "louisville-justice": {
-            "url": "https://defund12.org//louisville-justice?browse",
-            "budgets": []
         },
         "louisville": {
             "url": "https://defund12.org//louisville?browse",
@@ -543,6 +620,12 @@
             "budgets": [
                 "I am writing to demand that the Baton Rouge City Council adopt a city budget that prioritizes community wellbeing, and redirects funding away from the police.\nReferencing the most recent city budget, a staggering $93,530,380 has been allocated for the Baton Rouge police department",
                 "Baton Rouge\u2019s state offices, capitol building, and even LSU\u2019s campus all utilize prison labor, where prisoners earn between $0.00 to 0.70 cents per hour for their labor; this is state sanctioned, modern-day slavery.\nSignificantly less funds are allocated for vital community programs including workforce innovations, job training, and employment support programs under the Department of Human Development and Services (e.g., $736,520) and social services assistance, economic assistance, and housing assistance provided by the Office of Community Development (i.e., $8,299,510) for example.\nBaton Rouge is a city with high levels of poverty (i.e., 25.2% of Baton Rouge residents, over half of which are black, are living in poverty compared to the national average of 11.8% according to the U.S"
+            ]
+        },
+        "jeffersonparish": {
+            "url": "https://defund12.org//jeffersonparish?browse",
+            "budgets": [
+                "I am contacting you to demand a significant reduction to the $118 million that is currently allocated to public safety and its functions in the fiscal budget of 2020, and for a formal review of the Jefferson Parish Sheriff\u2019s Office from an independent party that has no affiliation with JPSO.\nPublic safety makes up roughly 22% of the Jefferson Parish\u2019s 2020 budget, while other important public services do not receive even half as much funding"
             ]
         },
         "nola": {
@@ -561,19 +644,19 @@
                 "What would Arlington look like if that 8 million dollars was invested in the community?\nPolice \u201creform\u201d is not enough"
             ]
         },
-        "boston-councilors": {
-            "url": "https://defund12.org//boston-councilors?browse",
-            "budgets": [
-                "The City Council needs to address a lack of investment in predominantly Black and Brown communities and an over-investment in their criminalization and surveillance including spending on the Boston Regional Intelligence Center (BRIC).\nThe City Council is considering a grant of $850,000 from the Executive of Public Safety to spend on the BRIC, in addition to $4 million in the City Budget and other federal funding from Trump\u2019s Department of Homeland Security",
-                "The police budget and overtime budget should be cut, with funds reinvested in Black and POC communities including $15 million this year for youth jobs.\nNow especially, the City Council can take a stand for racial justice by significantly defunding policing and investing in Black and Brown communities - starting with cutting the least transparent and most harmful parts of the BPD budget.\nRacist police violence doesn\u2019t just happen in other cities - it happens here in Boston too"
-            ]
-        },
         "boston": {
             "url": "https://defund12.org//boston?browse",
             "budgets": [
                 "The Mayor has a responsibility to address the city\u2019s lack of investment in predominantly Black and Brown community as he considers this funding.\nThe city of Boston will spend over $414,306,878 on the Police Department this year, as you well know",
                 "By contrast, fair housing and equity receives only $318,366",
                 "The police budget and overtime budget should be cut, with funds reinvested in Black and POC communities including $15 million this year for youth jobs"
+            ]
+        },
+        "boston-councilors": {
+            "url": "https://defund12.org//boston-councilors?browse",
+            "budgets": [
+                "The City Council needs to address a lack of investment in predominantly Black and Brown communities and an over-investment in their criminalization and surveillance including spending on the Boston Regional Intelligence Center (BRIC).\nThe City Council is considering a grant of $850,000 from the Executive of Public Safety to spend on the BRIC, in addition to $4 million in the City Budget and other federal funding from Trump\u2019s Department of Homeland Security",
+                "The police budget and overtime budget should be cut, with funds reinvested in Black and POC communities including $15 million this year for youth jobs.\nNow especially, the City Council can take a stand for racial justice by significantly defunding policing and investing in Black and Brown communities - starting with cutting the least transparent and most harmful parts of the BPD budget.\nRacist police violence doesn\u2019t just happen in other cities - it happens here in Boston too"
             ]
         },
         "cambridge": {
@@ -585,8 +668,8 @@
         "newton": {
             "url": "https://defund12.org//newton?browse",
             "budgets": [
-                "I am writing to ask that you use your power to reject the proposed increase of $147k to the Newton Police Department\u2019s FY21 budget",
-                "With a multi-billion dollar drop in revenue due to the many complications of COVID-19 and other departments losing money, an increase for the NPD budget does not make sense or benefit our city"
+                "I am writing to ask that you use your power as elected officials to reject the proposed increase of $147k to the Newton Police Department\u2019s FY21 budget.\nWith a multi-billion dollar drop in revenue statewide, due to the many complications of COVID-19 and other departments losing money, an increase for the NPD budget does not make sense or benefit our city",
+                "It is especially difficult to justify that within the Police Department budget, $420k more is being put toward patrolling, which has already doubled since 2015, even as calls to service have decreased"
             ]
         },
         "northampton": {
@@ -618,14 +701,6 @@
                 "In the midst of this pandemic and public outcry against police brutality, it feels especially inappropriate to propose an increase to the BPD budget to $545 million"
             ]
         },
-        "baltimore_senators": {
-            "url": "https://defund12.org//baltimore_senators?browse",
-            "budgets": []
-        },
-        "greenbelt": {
-            "url": "https://defund12.org//greenbelt?browse",
-            "budgets": []
-        },
         "hyattsville": {
             "url": "https://defund12.org//hyattsville?browse",
             "budgets": [
@@ -633,35 +708,26 @@
                 "Rather than spending several million dollars to purchase and retrofit a building for a new police headquarters, the city should be spending that money in order to increase services for public safety such as educational initiatives, mental health programs, ensuring access to affordable housing in all 5 wards of Hyattsville, and doing more to support and promote employment and vocational training programs.\nThe state of Maryland has the highest number of black men incarcerated per capita, and the city of Hyattsville police department plays a role in this sobering statistic"
             ]
         },
-        "montgomery_county": {
-            "url": "https://defund12.org//montgomery_county?browse",
-            "budgets": []
-        }
-    },
-    "ME": {
-        "portland_me": {
-            "url": "https://defund12.org//portland_me?browse",
-            "budgets": []
+        "princegeorges-county": {
+            "url": "https://defund12.org//princegeorges-county?browse",
+            "budgets": [
+                "Why should the police be funded given their history of violence within our community? In our schools, School Resource Officers contribute to the school to prison pipeline and continue to make our children feel unsafe.\nIn light of events of recent weeks, including the killing of George Floyd in Minneapolis and Breonna Taylor in Louisville, it feels especially inappropriate that the in the amended FY21 budget recently passed by the county council, over $348 million was allocated for the police budget, but less than $41 million was allocated for the entirety of Health and Human Services.\nYour job as elected officials is to take action when your constituents request"
+            ]
         }
     },
     "MI": {
-        "annarbor": {
-            "url": "https://defund12.org//annarbor?browse",
-            "budgets": []
-        },
-        "eastlansing": {
-            "url": "https://defund12.org//eastlansing?browse",
-            "budgets": []
+        "detroit": {
+            "url": "https://defund12.org//detroit?browse",
+            "budgets": [
+                "Of their respective departmental budgets, the General Fund accounts for 95.7% of DPD\u2019s total budget ($314 million) versus 32.1% for the Health Department ($13 million)",
+                "The total budgets for these departments are $328 million and $41 million, respectively"
+            ]
         },
         "grandrapids": {
             "url": "https://defund12.org//grandrapids?browse",
             "budgets": [
-                "I am writing to ask that you to call an emergency council meeting and challenge the mayor\u2019s proposed budget in favor of The People\u2019s Budget before the budget is adopted on July 1st.\nI know that public services are set to be cut by $22M by FY2021"
+                "I am writing to ask that you to call an emergency council meeting and challenge the mayor\u2019s proposed budget before it is adopted on July 1st, in favor of a budget for the people.\nI know that public services are set to be cut by $22M by FY2021"
             ]
-        },
-        "kalamazoo": {
-            "url": "https://defund12.org//kalamazoo?browse",
-            "budgets": []
         },
         "royaloak": {
             "url": "https://defund12.org//royaloak?browse",
@@ -676,31 +742,9 @@
             "budgets": [
                 "In Southfield\u2019s 19-20 FY budget, expenditures on Police vastly exceeded every other category at $26,774,810"
             ]
-        },
-        "ypsilanti": {
-            "url": "https://defund12.org//ypsilanti?browse",
-            "budgets": []
-        }
-    },
-    "MN": {
-        "minneapolis": {
-            "url": "https://defund12.org//minneapolis?browse",
-            "budgets": []
-        },
-        "stpaul-schoolboard": {
-            "url": "https://defund12.org//stpaul-schoolboard?browse",
-            "budgets": []
-        },
-        "stpaul": {
-            "url": "https://defund12.org//stpaul?browse",
-            "budgets": []
         }
     },
     "MO": {
-        "columbiamo": {
-            "url": "https://defund12.org//columbiamo?browse",
-            "budgets": []
-        },
         "kc": {
             "url": "https://defund12.org//kc?browse",
             "budgets": [
@@ -710,45 +754,7 @@
             ]
         }
     },
-    "MT": {
-        "billings": {
-            "url": "https://defund12.org//billings?browse",
-            "budgets": []
-        },
-        "butte": {
-            "url": "https://defund12.org//butte?browse",
-            "budgets": []
-        },
-        "greatfalls": {
-            "url": "https://defund12.org//greatfalls?browse",
-            "budgets": []
-        },
-        "helena": {
-            "url": "https://defund12.org//helena?browse",
-            "budgets": []
-        },
-        "kalispell": {
-            "url": "https://defund12.org//kalispell?browse",
-            "budgets": []
-        },
-        "missoula": {
-            "url": "https://defund12.org//missoula?browse",
-            "budgets": []
-        }
-    },
     "NC": {
-        "asheville": {
-            "url": "https://defund12.org//asheville?browse",
-            "budgets": []
-        },
-        "chapelhill-active": {
-            "url": "https://defund12.org//chapelhill-active?browse",
-            "budgets": []
-        },
-        "chapelhill": {
-            "url": "https://defund12.org//chapelhill?browse",
-            "budgets": []
-        },
         "charlotte": {
             "url": "https://defund12.org//charlotte?browse",
             "budgets": [
@@ -767,6 +773,13 @@
                 "I am writing to object to the allocation of over $78M to the Greensboro Police Department in the 2020-2021 city budget"
             ]
         },
+        "hendersonville": {
+            "url": "https://defund12.org//hendersonville?browse",
+            "budgets": [
+                "I am emailing to demand a restructuring of the Hendersonville city budget to prioritize social services for the community and significantly decrease spending on the police.\nThe $5.8 million budget allocation for police in FY 2020-2021 in Hendersonville represents a large amount of resources that could be better spent improving community wellbeing through community led programs",
+                "For instance health and welfare only receives $282,480 in funding"
+            ]
+        },
         "holly-springs": {
             "url": "https://defund12.org//holly-springs?browse",
             "budgets": [
@@ -779,10 +792,16 @@
                 "The proposed budget for 2021 suggests that the largest fraction of the city\u2019s budget should go to policing ($110,650,573), which is over 60% larger than even the second largest allocation of funds, fire ($67,687,901)"
             ]
         },
+        "wakecounty": {
+            "url": "https://defund12.org//wakecounty?browse",
+            "budgets": [
+                "Fortunately it does not approve the $8 Million the Sheriff requested for even more officers, but that is less than 10% of the proposed total expenditures ($97,103,645) and it does little to invest in the community"
+            ]
+        },
         "winston-salem": {
             "url": "https://defund12.org//winston-salem?browse",
             "budgets": [
-                "\n\nTo: mayorsoffice@cityofws.org,info@cityofws.org,john.larson@cityofws.org,robertc@cityofws.org,jeffm@cityofws.org,danb@cityofws.org,annettes@cityofws.org,denisea@cityofws.org,jamestjr@cityofws.org,morticiap@cityofws.org\n                \ud83d\udd17\n\n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Joines and City Council,\nMy name is [INSERT NAME] and I am writing from zip code [INSERT ZIP CODE] regarding the proposed City of Winston-Salem budget that allocates 52.5% of the General Fund to Public Safety, totally $112.5 million, with $78,711,550 of that for the Police Department"
+                "\n\nTo: \ud83d\udd17\n                mayorsoffice@cityofws.org, info@cityofws.org, john.larson@cityofws.org, robertc@cityofws.org, jeffm@cityofws.org, danb@cityofws.org, annettes@cityofws.org, denisea@cityofws.org, jamestjr@cityofws.org, morticiap@cityofws.org\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Joines and City Council,\nMy name is [INSERT NAME] and I am a resident of [DISTRICT/NEIGHBORHOOD] concerned about the proposed City of Winston-Salem budget that allocates 52.5% of the General Fund to Public Safety, of which over 70% ($78,711,550) is allocated for the Police Department"
             ]
         }
     },
@@ -801,10 +820,6 @@
             "budgets": [
                 "Yet the FY 2021 Budget would increase the Concord Police\u2019s budget by nearly a million dollars"
             ]
-        },
-        "manchesternh": {
-            "url": "https://defund12.org//manchesternh?browse",
-            "budgets": []
         }
     },
     "NJ": {
@@ -827,6 +842,13 @@
                 "The allocation for the police alone takes up nearly 20% of the entire $612 million budget.\nI am writing to demand that the 2020-2021 Jersey City municipal budget be revised to reallocate funds away from police and towards things like education, healthcare infrastructure (including non-coercive mental healthcare), youth programming, and non-coercive drug and alcohol treatment programming.\nMayor Fulop and city councilors, please consider making these changes that are in the best interest of our community now and for the future.\nThank you,\n[YOUR NAME]\n[YOUR ADDRESS]\n[YOUR PHONE]\n[YOUR EMAIL]\n\n"
             ]
         },
+        "newbrunswick": {
+            "url": "https://defund12.org//newbrunswick?browse",
+            "budgets": [
+                "At $20,181,528 total, an increase from 2019, the City\u2019s amended 2020 budget for policing dwarfs its other appropriations",
+                "For example, the allocation for health and human services does not even reach $500,000"
+            ]
+        },
         "newark": {
             "url": "https://defund12.org//newark?browse",
             "budgets": [
@@ -842,6 +864,19 @@
             "budgets": [
                 "According to the Urban Institute, in 1977, state and local governments spent $60 billion on police and corrections",
                 "In 2017, they spent $194 billion"
+            ]
+        },
+        "lascruces": {
+            "url": "https://defund12.org//lascruces?browse",
+            "budgets": [
+                "According to the Urban Institute, in 1977, state and local governments spent $60 billion on police and corrections",
+                "In 2017, they spent $194 billion\u2014a 220 percent increase"
+            ]
+        },
+        "santafe": {
+            "url": "https://defund12.org//santafe?browse",
+            "budgets": [
+                "As such please divest the $88,000 allocated toward the purchase of weapons including 20 AR-15 rifles, 500 tasers, and SWAT helmet video cameras for the Sheriff\u2019s Department"
             ]
         }
     },
@@ -863,13 +898,9 @@
         "beacon": {
             "url": "https://defund12.org//beacon?browse",
             "budgets": [
-                "\n\nTo: tnelson@cityofbeacon.org,arhodes@cityofbeacon.org,jmccredo@cityofbeacon.org,daymarblair@cityofbeacon.org,gmansfield@cityofbeacon.org,agrant@cityofbeacon.org,mayor@cityofbeacon.org\n                \ud83d\udd17\n\n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Beacon City Council and Mayor,\nMy name is [YOUR NAME] and I am a Beacon resident and writing to urge you to defund the Beacon Police Department.\nThe Beacon Police department currently has a budget of $5.5 Million",
+                "\n\nTo: \ud83d\udd17\n                tnelson@cityofbeacon.org, arhodes@cityofbeacon.org, jmccredo@cityofbeacon.org, daymarblair@cityofbeacon.org, gmansfield@cityofbeacon.org, agrant@cityofbeacon.org, mayor@cityofbeacon.org\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Beacon City Council and Mayor,\nMy name is [YOUR NAME] and I am a Beacon resident and writing to urge you to defund the Beacon Police Department.\nThe Beacon Police department currently has a budget of $5.5 Million",
                 "That has increased $700,000 in the past 6 years while other services have been cut or kept the same"
             ]
-        },
-        "broome": {
-            "url": "https://defund12.org//broome?browse",
-            "budgets": []
         },
         "buffalo": {
             "url": "https://defund12.org//buffalo?browse",
@@ -880,14 +911,21 @@
                 "Shaun was given a $300,000 settlement by you, the Common Council"
             ]
         },
-        "Nassau": {
-            "url": "https://defund12.org//Nassau?browse",
-            "budgets": []
-        },
         "nyc": {
             "url": "https://defund12.org//nyc?browse",
             "budgets": [
                 "Furthermore, I urge you ONLY to vote for a budget that includes AT LEAST $1 billion in cuts to the NYPD with equal reallocation towards social services and education programs, effective at the beginning of FY21, July 1, 2020.\nGovernor Cuomo has doubled the presence of the NYPD on New York City streets"
+            ]
+        },
+        "poughkeepsie": {
+            "url": "https://defund12.org//poughkeepsie?browse",
+            "budgets": [
+                "As such, the Poughkeepsie City School District has stated the following:\nThe Poughkeepsie City School District is proposing to eliminate 48 positions, including teachers, administrators and support staff, as it attempts to erase a $2.6 million deficit for its 2020-21 budget",
+                "Rosser noted the eliminations do not necessarily mean 48 staff members will be laid off, given some positions are vacant due to retirements and other transitions.\nAdministrative positions eliminated would include the P-Tech program principal, the PACE (Poughkeepsie Academic and Career Excellence) program principal, the PACE assistant principal, the high school dean of students, five elementary assistant principals, the assistant to the superintendent, and the director of grants and advancement.\nThe proposed layoffs would result in around $3 million of savings",
+                "Rosser said the eliminations are likely to happen given the economic uncertainty amid the pandemic, and the district could see more eliminations as the budget is finalized.\n  He said more eliminations will be voted on by the board Wednesday, May 6.\nWhen asked by the board at the meeting how the schools will continue to provide services, Rosser did not have an answer.\nIn addition to the lack of funding in schools, County Executive Marc Molinaro has reported that 2019 was a strong \u201cfiscal\u201d year, in particular response to the COVID-19 pandemic, stating:\n\u201cExpenses totaled $471.2 million, while revenue added up to $472.6 million",
+                "Additionally, sales tax revenue increased by $9.1 million, a 4.6% increase over 2018",
+                "The county also ended the fiscal year with $56.9 million in its general fund balance.\u201d\nMoreover, \u201c\u2026[r]evenues increased in 2019, even as expenditures also increased in several areas",
+                "That included a $7.6 million cost increase to the Dutchess County Sheriff\u2019s Employee Association for union contract settlements, positions, employee benefits and debt service.\u201d\nUltimately, the allocation of funds that have been attributed to the Poughkeepsie police department in contrast to the funding towards schools, is both erring and telling"
             ]
         },
         "rochester": {
@@ -903,10 +941,6 @@
             "budgets": [
                 "Moving funds away from the sheriff\u2019s office and police department is a crucial way to combat these issues at the county level.\nThe current 2020 budget passed by County Executive Ed Day appropriates 73 million dollars to the Sheriff, which is the second highest amount by department"
             ]
-        },
-        "suffolk": {
-            "url": "https://defund12.org//suffolk?browse",
-            "budgets": []
         }
     },
     "OH": {
@@ -936,6 +970,28 @@
                 "In 2017, they spent $194 billion"
             ]
         },
+        "dayton": {
+            "url": "https://defund12.org//dayton?browse",
+            "budgets": [
+                "\n\nTo: \ud83d\udd17\n                nan.whaley@daytonohio.gov, commissionerjoseph@daytonohio.gov, Ariel.walker@daytonohio.gov, commissionersims@daytonohio.gov, commissionershaw@daytonohio.gov, commissionerfairchild@daytonohio.gov, Angela.coleman@daytonohio.gov, Esther.rohm@daytonohio.gov, Vanessa.moon@daytonohio.gov, Erica.fields@daytonohio.gov\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Hello, my name is [NAME] and I live in [CITY/NEIGHBORHOOD].\nI join with people in Dayton and around the world to demand that you, our local officials, will:\nVote no on all increases to police budgets.\nVote yes to decrease police spending and budgets.\nVote yes to increase spending on health care, education and community programs that keep us safe.\nIn Dayton, the current proposed budget for Economic and Community Development is $23,051,900 (a near $500,000 decrease from 2019)",
+                "Our proposed budget for Justice is $66,557,400",
+                "So far, more than 100,000 people \u2014 enough to fill a football stadium\u2013 have perished from the virus,with over one million cases confirmed, and those numbers don\u2019t reflect all the people dying from virus-related illnesses",
+                "According to the Urban Institute, in 1977, state and local governments spent $60 billion on police and corrections ",
+                "In 2017, they spent $194 billion"
+            ]
+        },
+        "hilliard": {
+            "url": "https://defund12.org//hilliard?browse",
+            "budgets": [
+                "\n\nTo: \ud83d\udd17\n                ateater@hilliardohio.gov, pmarsh@hilliardohio.gov, tbaker@hilliardohio.gov, lcarrier@hilliardohio.gov, kmcgiver@hilliardohio.gov, otarazi@hilliardohio.gov, cvermillion@hilliardohio.gov, Ifasone@hilliardohio.gov\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Hilliard Council Members,\nMy name is [YOUR NAME] and I am a resident of Hilliard, Ohio"
+            ]
+        },
+        "mcminnville": {
+            "url": "https://defund12.org//mcminnville?browse",
+            "budgets": [
+                "Although the current budget proposal includes a $35,458 (0.38 percent) decrease in Police funding, the Police Department is still set to receive almost a third of our city\u2019s General Fund budget, and $1.5 million more than their budget in 2017-2018"
+            ]
+        },
         "toledo": {
             "url": "https://defund12.org//toledo?browse",
             "budgets": [
@@ -958,25 +1014,15 @@
             "budgets": [
                 "As such, I demand more aggressive financial support be directed to those areas.\nIn the FY2021 budget proposal, police receive $226,051,993 out of a total $1,658,405,738"
             ]
-        },
-        "tulsa": {
-            "url": "https://defund12.org//tulsa?browse",
-            "budgets": []
         }
     },
     "OR": {
         "eugene": {
             "url": "https://defund12.org//eugene?browse",
             "budgets": [
-                "I urge you to oppose the increase in funding from $61.35 mil in FY-2020 to $67.97 mil in FY-2021 for the Eugene Police Department (EPD) and instead, decrease it.\nPolicing plays a strong role in enforcing racism and social control of communities of color through disempowerment, displacement, and repression",
+                "I urge you to oppose the increase in funding from $61.35 mil in FY-2020 to $67.97 mil in FY-2021 for the Eugene Police Department (EPD) and instead, meaningfully restrict it.\nPolicing plays a strong role in enforcing racism and social control of communities of color through disempowerment, displacement, and repression",
                 "As stated on the White Bird Clinic Website, \u201cCAHOOTS gets 2 percent of the police budget, but with that 2 percent they handle 17 percent of public safety calls.\u201d Per the FY20 Budget Report, CAHOOTS funding was only $281,000",
                 "In response to burgeoning community need, we are expanding the hours of CAHOOTS mobile crisis services, which responded to over 23,000 calls in 2018, saving an estimated $6M in emergency medical services costs alone.\u201d\nThe City of Eugene should continue to work towards the expansion programs that benefit the community, like CAHOOTS, by diverting additional funds from EPD"
-            ]
-        },
-        "portland-police": {
-            "url": "https://defund12.org//portland-police?browse",
-            "budgets": [
-                "\nBody cams do not equal accountability and bias training does not reduce the number of Black people, Indigenous people, Latinx people and others disproportionately targeted by \u201claw enforcement\u201d.\nIf you want to \u201ctackle crime\u201d, dedicate yourselves fully to ending poverty\u2013 don\u2019t give the police force another 246.2 million to spend on riot gear, grenades, and chemical weapons to use against your city.\nNow is a chance for Portland to lead the country and show how demilitarization and defunding the police can create a safer city for all of us.\nBest Regards,\n[YOUR NAME]\n[YOUR ADDRESS]\n[YOUR EMAIL]\n[YOUR PHONE NUMBER]\n\n"
             ]
         },
         "portland-defund": {
@@ -993,12 +1039,29 @@
                 "We can make the choice to fund people, not policing & incarceration.\nOur demands are:\nReject the $6.4 million increase to the Sheriff\u2019s Department\nDivest from Homeless Outreach and Programs Engagement (HOPE) and instead direct resources towards dignified temporary and permanent housing and rent relief; halt sweeps of houseless encampments and other villages.\nReject increased funding and divest from Adult Electronic Monitoring, Adult Field Supervision.\nReject increased funding and divest from Body Worn Camera programs.\nDeny the Sheriff Department\u2019s proposition to use $1.08 million from the general fund to keep Dorm 15 at Inverness Jail from closing.\nDivest from the Juvenile East Multnomah Gang Enforcement Team & the Gang Enforcement Deputy.\nInvest in life affirming solutions to Multnomah County\u2019s needs by building up community-based and peer-led services and resources",
                 "The county can address its $58 million (and growing) deficit in the $1.98 billion budget by divesting from the violence of policing and incarceration"
             ]
+        },
+        "portland-police": {
+            "url": "https://defund12.org//portland-police?browse",
+            "budgets": [
+                "\nBody cams do not equal accountability and bias training does not reduce the number of Black people, Indigenous people, Latinx people and others disproportionately targeted by \u201claw enforcement\u201d.\nIf you want to \u201ctackle crime\u201d, dedicate yourselves fully to ending poverty\u2013 don\u2019t give the police force another 246.2 million to spend on riot gear, grenades, and chemical weapons to use against your city.\nNow is a chance for Portland to lead the country and show how demilitarization and defunding the police can create a safer city for all of us.\nBest Regards,\n[YOUR NAME]\n[YOUR ADDRESS]\n[YOUR EMAIL]\n[YOUR PHONE NUMBER]\n\n"
+            ]
+        },
+        "yamhillcounty": {
+            "url": "https://defund12.org//yamhillcounty?browse",
+            "budgets": [
+                "The current approved 2020-2021 budget allocates 23 percent of the total budget to criminal justice, an increase of almost $500,000 from the 2019-2020 budget",
+                "Meanwhile, the Health and Human Services (HHS) approved budget for 2020-2021 is decreased by almost $5 million relative to last year"
+            ]
         }
     },
     "PA": {
-        "erie": {
-            "url": "https://defund12.org//erie?browse",
-            "budgets": []
+        "lancaster": {
+            "url": "https://defund12.org//lancaster?browse",
+            "budgets": [
+                "I will no longer accept empty gestures and suggestions of \u201creform\u201d like those referenced in the \u201cCity of Lancaster Commitments to Racial Equity.\u201d\nIn March of this year you told Keystone Edge, and I quote, \u201cIf I could snap my fingers and eliminate poverty, I would do it.\u201d As a city resident, I would like to see a People\u2019s budget that reflects this goal by prioritizing community wellbeing and redirects funding away from the police so that Lancaster can be a place of justice and safety for all people.\nIt is absolutely absurd that the adopted 2020 police budget is $26,846,397 which is larger than the allocations to the fire department, department of Community Planning & Economic Development and the department of Public Works combined",
+                "The police get 42.8% of our City\u2019s budget of which 12 million is solely for police salaries",
+                "Currently the budget lists this under Community Development Division, which received only 4.79 million in 2020.\n-Low Income Housing: Similarly to homelessness services, the city needs a robust program for its residents"
+            ]
         },
         "philly": {
             "url": "https://defund12.org//philly?browse",
@@ -1012,13 +1075,6 @@
                 "We will no longer accept empty gestures and suggestions of \u201creform.\u201d We are demanding that our voices be heard now, and that real change be made to the way this city allocates its resources.\nThe proposed $14 million budget increase for PPD is unacceptable and comes at the cost of affordable housing, support for essential city workers, and other transformative initiatives"
             ]
         },
-        "pittsburgh_mayor": {
-            "url": "https://defund12.org//pittsburgh_mayor?browse",
-            "budgets": [
-                "\n\nTo: bill.peduto@pittsburghpa.gov\n                \ud83d\udd17\n\n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Peduto,\nMy name is [YOUR NAME] and I am a resident of [NEIGHBORHOOD/BOROUGH/CITY]\nFrom reports of protesters being attacked around the city to the killing of Antwon Rose in East Pittsburgh - the police have shown that they are not doing their jobs to serve and protect all citizens of this city.\nIn 2020 the Bureau of Police\u2019s budget INCREASED by over $10 million dollars",
-                "This is not a budget dedicated to keeping citizens safe and healthy.\nI demand that budgeting funds are moved from the Bureau of Police (~18.8% of Pittsburgh\u2019s Operating Budget) towards programs that support housing, jobs, education, and improve quality of life in our community and for Black Pittsburghers.\nHere are some departments from the Operations and Capital budgets that could use this financial support:\nOffice of Equity - only allocated $1,758,022 (~0.29% of 2020 Operating Budget)\nNeighborhood and Community Development - only allocated $7,502,080 (~6.8% of 2020 Capital Budget)\nCommunity Based Organizations - only allocated $500,000 (~0.45% of 2020 Capital Budget)\nNeighborhood Employment Centers - only allocated $150,000 (~0.14% of Capital Budget)\nPittsburgh Employment Program - only allocated $150,000 (~0.14% of Capital Budget)\nFair Housing - only allocated $100,000 (~0.09% of Capital Budget)\nThe lack of community support is evident in the Pittsburgh 2020 budget"
-            ]
-        },
         "pittsburgh": {
             "url": "https://defund12.org//pittsburgh?browse",
             "budgets": [
@@ -1028,9 +1084,12 @@
                 "Is this what the increase will go toward? What is the reasoning for needing more police on the ground? Due to the overwhelming evidence that the police are targeting Black people in this city (and across the world), it is the correct move to divest from funding boots on the ground operations and invest in upholding policies that support the people.\nThe Neighborhood and Community Development fund was only allocated $7,502,080 for 2020"
             ]
         },
-        "statecollegepa": {
-            "url": "https://defund12.org//statecollegepa?browse",
-            "budgets": []
+        "pittsburgh-mayor": {
+            "url": "https://defund12.org//pittsburgh-mayor?browse",
+            "budgets": [
+                "\n\nTo: \ud83d\udd17\n                bill.peduto@pittsburghpa.gov\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Peduto,\nMy name is [YOUR NAME] and I am a resident of [NEIGHBORHOOD/BOROUGH/CITY]\nFrom reports of protesters being attacked around the city to the killing of Antwon Rose in East Pittsburgh - the police have shown that they are not doing their jobs to serve and protect all citizens of this city.\nIn 2020 the Bureau of Police\u2019s budget INCREASED by over $10 million dollars",
+                "This is not a budget dedicated to keeping citizens safe and healthy.\nI demand that budgeting funds are moved from the Bureau of Police (~18.8% of Pittsburgh\u2019s Operating Budget) towards programs that support housing, jobs, education, and improve quality of life in our community and for Black Pittsburghers.\nHere are some departments from the Operations and Capital budgets that could use this financial support:\nOffice of Equity - only allocated $1,758,022 (~0.29% of 2020 Operating Budget)\nNeighborhood and Community Development - only allocated $7,502,080 (~6.8% of 2020 Capital Budget)\nCommunity Based Organizations - only allocated $500,000 (~0.45% of 2020 Capital Budget)\nNeighborhood Employment Centers - only allocated $150,000 (~0.14% of Capital Budget)\nPittsburgh Employment Program - only allocated $150,000 (~0.14% of Capital Budget)\nFair Housing - only allocated $100,000 (~0.09% of Capital Budget)\nThe lack of community support is evident in the Pittsburgh 2020 budget"
+            ]
         }
     },
     "RI": {
@@ -1047,11 +1106,20 @@
                 "I am writing to demand that Jamestown Town Council adopt a town budget that prioritizes community welfare and redirects funding away from police.\nThis fiscal year the town plans to give just over 1.8 million to our police system, a substantial 15.5% of the budget"
             ]
         },
+        "newport": {
+            "url": "https://defund12.org//newport?browse",
+            "budgets": [
+                "It has become clear that police forces are ineffective at keeping local communities safe and that they perpetuate the oppression of residents of color, undocumented residents, disabled residents, mentally ill residents, and LGBTQ residents.\nAccording to the proposed budget for fiscal year 2021, the city of Newport expects to lose $3.5 million as a result of the COVID-19 pandemic",
+                "However, the city is projecting that General Fund revenue will total approximately $96.4 million for the upcoming fiscal year, with $79.8 million of that money coming directly from this city\u2019s residents through local property and motor vehicle taxes.\nThere are plans to make donations to various local organizations, including Visiting Nurses, Newport County Mental Health, and Clean Ocean Access",
+                "However, those donations total $127,200",
+                "Compare that to the proposed $19 million the city plans to use to police those residents and you might see why it is that thousands of them were marching in the streets on June 6.\nImagine what over $4 million could do if it were invested in low-income and public housing, education, resources for formerly incarcerated individuals, public transportation, and other city initiatives that have been proven to strengthen communities.\nNewport may be a small city, but our responsibility to our residents, state, and country is large"
+            ]
+        },
         "pawtucket": {
             "url": "https://defund12.org//pawtucket?browse",
             "budgets": [
-                "It has become clear that police do not meet the needs of the community and are in fact a detriment to community safety, furthering the oppression of residents of color, undocumented residents, disabled residents, mentally ill residents, and LGBTQ residents.\nThe mayor\u2019s office has proposed a police budget of $25,578,656 for FY21",
-                "This includes $100,000 to keep police in Cranston public schools, contributing to the criminalization of youth and the school-to-prison pipeline that disproportionately targets Black students and students of color within the Cranston Public School system.\nImagine what over $25 million could do for this community if it was invested in education, community mental health services, resources for formerly incarcerated, housing, and other services that have been proven to reduce crime and contribute to the safety and well-being of communities.\nCranston may be a small city in a tiny state, but we have shown that we can make a huge impact on America at large"
+                "It has become clear that police do not meet the needs of the community and are in fact a detriment to community safety, furthering the oppression of residents of color, undocumented residents, disabled residents, mentally ill residents, and LGBTQ residents.\nThe mayor\u2019s office has proposed a police budget of over $24 million for FY21",
+                "This includes a significant sum to keep police in Pawtucket public schools, contributing to the criminalization of youth and the school-to-prison pipeline that disproportionately targets Black students and students of color within the Pawtucket Public School system.\nImagine what over $24 million could do for this community if it was invested in education, community mental health services, resources for formerly incarcerated, housing, and other services that have been proven to reduce crime and contribute to the safety and well-being of communities.\nPawtucket may be a small city in a tiny state, but we have shown that we can make a huge impact on America at large"
             ]
         },
         "providence": {
@@ -1066,24 +1134,22 @@
         "charleston-sc": {
             "url": "https://defund12.org//charleston-sc?browse",
             "budgets": [
-                "\n\nTo: tecklenburgj@charleston-sc.gov,delcioppom@charleston-sc.gov,shealyk@charleston-sc.gov,jasonsakrandistrict3@gmail.com,mitchellro@charleston-sc.gov,bradyk@charleston-sc.gov,gregoriewd@charleston-sc.gov,waringp@charleston-sc.gov,mike@seekingslaw.com,peter@charlestoncitycouncil9.org,griffinh@charleston-sc.gov,appelr@charleston-sc.gov,jacksonc@charleston-sc.gov\n                \ud83d\udd17\n\n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Tecklenburg and Charleston City Council Members,\nMy name is [YOUR NAME] and I am a resident of [YOUR NEIGHBORHOOD].\nI am demanding you reallocate funds from the Charleston City Police department and invest them into social services that would directly improve the well-being of Charleston citizens.\nThe budget for 2019 was $51,764,862, and the budget for 2020 is $53,445,152"
+                "\n\nTo: \ud83d\udd17\n                tecklenburgj@charleston-sc.gov, delcioppom@charleston-sc.gov, shealyk@charleston-sc.gov, jasonsakrandistrict3@gmail.com, mitchellro@charleston-sc.gov, bradyk@charleston-sc.gov, gregoriewd@charleston-sc.gov, waringp@charleston-sc.gov, mike@seekingslaw.com, peter@charlestoncitycouncil9.org, griffinh@charleston-sc.gov, appelr@charleston-sc.gov, jacksonc@charleston-sc.gov\n            \n\nSubject: [*** INSERT UNIQUE SUBJECT LINE ***]\n            \n\nMessage: (Don't forget to replace the [x]'s with your information!)\n\ud83d\udd17\n Dear Mayor Tecklenburg and Charleston City Council Members,\nMy name is [YOUR NAME] and I am a resident of [YOUR NEIGHBORHOOD].\nI am demanding you reallocate funds from the Charleston City Police department and invest them into social services that would directly improve the well-being of Charleston citizens.\nThe budget for 2019 was $51,764,862, and the budget for 2020 is $53,445,152"
+            ]
+        },
+        "greenville": {
+            "url": "https://defund12.org//greenville?browse",
+            "budgets": [
+                "The two year budget for the Sheriff\u2019s Office for the 2020-2021 fiscal year is $96,307,964"
             ]
         }
     },
     "TN": {
-        "clarksville": {
-            "url": "https://defund12.org//clarksville?browse",
-            "budgets": []
-        },
         "knoxville": {
             "url": "https://defund12.org//knoxville?browse",
             "budgets": [
                 "I am writing to say that I am strongly against the provisions found in the FY2020-2021 budget.\nThe mayor\u2019s budget would spend $60.7 million ($58 million of which comes directly from the Knoxville City General Fund of $164.5 million, or 35%) on a \u201cpublic safety\u201d system that does not keep us safe"
             ]
-        },
-        "memphis": {
-            "url": "https://defund12.org//memphis?browse",
-            "budgets": []
         },
         "nashville": {
             "url": "https://defund12.org//nashville?browse",
@@ -1093,10 +1159,6 @@
         }
     },
     "TX": {
-        "austin-protests": {
-            "url": "https://defund12.org//austin-protests?browse",
-            "budgets": []
-        },
         "austin": {
             "url": "https://defund12.org//austin?browse",
             "budgets": [
@@ -1130,8 +1192,7 @@
         "irving": {
             "url": "https://defund12.org//irving?browse",
             "budgets": [
-                "From 2017 to 2020 IPD\u2019s budget has grown 14% or roughly $8 million",
-                "(Source: City of Irving Fiscal Year 2019-2020 Budget).\nAs Irving residents, we therefore demand that you take immediate action to ensure the following:\n\nReduce IPD\u2019s allocation from the General Fund by 50% (roughly $35 Million)\nDisallow unauthorized overtime by IPD\nDiscontinue use of general fund dollars to pay for settlements due to police murder, misconduct, and negligence\nInvest in housing, jobs, youth programs, restorative justice, and mental health workers to keep the community safe.\nInvest in community development initiatives and programs.\n\nIrving cannot wait any longer for a budget that meets the needs of its residents"
+                "From 2017 to 2020 IPD\u2019s budget has grown 14% or roughly $8 million"
             ]
         },
         "sanantonio": {
@@ -1141,22 +1202,12 @@
             ]
         }
     },
-    "UT": {
-        "saltlakecity": {
-            "url": "https://defund12.org//saltlakecity?browse",
-            "budgets": []
-        }
-    },
     "VA": {
         "alexandria": {
             "url": "https://defund12.org//alexandria?browse",
             "budgets": [
                 "This past week, our nation has been gripped by protests calling for a rapid and meaningful reevaluation of the role of policing in our communities, and an end to racism and anti-Blackness.\nIn the proposed FY 2021 Budget, the city is dedicating $68,306,285 to the Alexandria Police Department and $35,074,056 to the Alexandria Sheriff\u2019s Office, while only dedicating $7,342,873 to the Health Department and $7,762,217 to affordable housing"
             ]
-        },
-        "arlington": {
-            "url": "https://defund12.org//arlington?browse",
-            "budgets": []
         },
         "charlottesville": {
             "url": "https://defund12.org//charlottesville?browse",
@@ -1170,16 +1221,38 @@
                 "Last year, the Police Department cost the county $176 424,490"
             ]
         },
+        "loudouncounty": {
+            "url": "https://defund12.org//loudouncounty?browse",
+            "budgets": [
+                "First, I noticed that the Sheriff\u2019s office is predicted to be allocated a massive $109M, an increase in $4.9M from FY 2019",
+                "This program will serve as a pilot for the rest of America, and I hope you will consider taking their guidance.\nThe $109M in police funding could be used in a variety of other ways to better our community",
+                "The $55M allocated to this department pales in comparison to the funding given to the police"
+            ]
+        },
         "norfolk": {
             "url": "https://defund12.org//norfolk?browse",
             "budgets": [
                 "In FY 2020, the Norfolk PD adopted $77,618,592 in total expenditures while the entire Norfolk Community Services Board\u2019s adopted expenditures totaled $25,078,661"
             ]
         },
+        "princewilliamcounty": {
+            "url": "https://defund12.org//princewilliamcounty?browse",
+            "budgets": [
+                "The proposed budget for the Police Department for 2021 is $118,237,179",
+                "Compare this to the Housing & Community Development budget of $43,362,792 or the Public Health budget of just $3,428,388"
+            ]
+        },
         "richmond": {
             "url": "https://defund12.org//richmond?browse",
             "budgets": [
                 "Last year, the RPD\u2019s total general fund was $95,403,743 while Housing and Community Development\u2019s was $3,296,705"
+            ]
+        },
+        "roanokecounty": {
+            "url": "https://defund12.org//roanokecounty?browse",
+            "budgets": [
+                "For FY 2020-2021, $12.3M has been allocated to RCPD",
+                "Currently the Public Assistance branch of Social Services only receives only $4.7M and sees no increase in funding over the previous year, and Public Health receives only $0.5M"
             ]
         },
         "williamsburg": {
@@ -1190,62 +1263,32 @@
         }
     },
     "VT": {
-        "burlington": {
-            "url": "https://defund12.org//burlington?browse",
-            "budgets": []
+        "burlingtonvt": {
+            "url": "https://defund12.org//burlingtonvt?browse",
+            "budgets": [
+                "You have a responsibility to address the city\u2019s lack of investment in predominantly Black and Brown communities.\nThe City of Burlington is looking at increasing the budget of the Police Department by $17.4 million this year, as you well know"
+            ]
         }
     },
     "WA": {
+        "olympia": {
+            "url": "https://defund12.org//olympia?browse",
+            "budgets": [
+                "These acts and incidents betray a deeply rooted OPD culture of racism and discrimination.\nAccording to the 2020 Preliminary Operating Budget, OPD is allocated approximately $20.5 million"
+            ]
+        },
+        "pasco": {
+            "url": "https://defund12.org//pasco?browse",
+            "budgets": [
+                "In the 2019-2020 budget, the PPD was allocated a budget of $35,524,184 accounting for 35.5% of Pasco\u2019s total budget"
+            ]
+        },
         "seattle": {
             "url": "https://defund12.org//seattle?browse",
             "budgets": [
                 "In the 2019-2020 proposed budget, the funding for the Office of Housing, which provides grants for affordable housing, remained unchanged at only $69.1 million",
                 "In comparison, the SPD was allocated a budget of $363 million, representing a 9.7% increase in funds.\nThis pandemic has had severe economic consequences including high unemployment causing many people to be unable to pay rent"
             ]
-        },
-        "spokane": {
-            "url": "https://defund12.org//spokane?browse",
-            "budgets": []
-        },
-        "tacoma": {
-            "url": "https://defund12.org//tacoma?browse",
-            "budgets": []
-        }
-    },
-    "WI": {
-        "eauclaire": {
-            "url": "https://defund12.org//eauclaire?browse",
-            "budgets": []
-        },
-        "lacrosse": {
-            "url": "https://defund12.org//lacrosse?browse",
-            "budgets": []
-        },
-        "madison": {
-            "url": "https://defund12.org//madison?browse",
-            "budgets": []
-        },
-        "milwaukee": {
-            "url": "https://defund12.org//milwaukee?browse",
-            "budgets": []
-        }
-    },
-    "WV": {
-        "charleston-wv": {
-            "url": "https://defund12.org//charleston-wv?browse",
-            "budgets": []
-        },
-        "huntington": {
-            "url": "https://defund12.org//huntington?browse",
-            "budgets": []
-        },
-        "morgantown": {
-            "url": "https://defund12.org//morgantown?browse",
-            "budgets": []
-        },
-        "parkersburg": {
-            "url": "https://defund12.org//parkersburg?browse",
-            "budgets": []
         }
     }
 }
