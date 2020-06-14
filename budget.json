@@ -1,481 +1,731 @@
-[
-  {
-    "Massachusetts": {
-      "police": 1761805461,
-      "cities": [
-      {
-          "name": "Boston",
-          "police": 414182026,
-          "housing": 317514
-        },
-        {
-          "name": "Cambridge",
-          "police": 65925945,
-          "housing": 2336915,
-          "community development": 12411820
-        }
-      ]
-    }
+{
+  "Massachusetts": {
+      "state_budgets": {
+          "total": null,
+          "police": 1761805461
+      },
+      "city_budgets": {
+          "Boston": {
+              "police": 414182026,
+              "housing": 317514
+          },
+          "Cambridge": {
+              "police": 65925945,
+              "housing": 2336915,
+              "community development": 12411820
+          },
+          "Arlington": {
+              "police": 8214876,
+              "health and human services": 425891
+          },
+          "Newton": {
+              "police": 22804753
+          },
+          "North Hampton": {
+              "police": 14789015
+          },
+          "Somerville": {
+              "police": 17044021
+          },
+          "Worcester": {
+              "police": 52000000
+          }
+      }
   },
-  {
-    "New York": {
-      "police": 166093000,
-      "cities": [
-        {
-          "name": "New York City",
-          "police":51682000,
-          "housing": 2127269
-        },
-        {
-          "name": "Buffalo",
-          "police": 74541474,
-          "community development": 492622
-        },
-        {
-          "name": "Rochester",
-          "police": 2368300
-        },
-        {
-          "name": "Albany",
-          "police": 54266365 
-        }
-      ]
-    }
+  "New York": {
+      "state_budgets": {
+          "total": null,
+          "police": 166093000
+      },
+      "city_budgets": {
+          "New York City": {
+              "police": 51682000,
+              "housing": 2127269
+          },
+          "Buffalo": {
+              "police": 74541474,
+              "community development": 492622
+          },
+          "Rochester": {
+              "police": 2368300
+          },
+          "Albany": {
+              "police": 54266365
+          }
+      }
   },
-  {
-    "Washington": {
-      "police": null,
-      "cities": [
-        {
-          "name": "Seattle",
-          "police": 363370000
-        },
-        {
-          "name": "Spokane",
-          "police": 64182339
-        }
-      ]
-    }
-  },
-  {
-    "Ohio": {
-      "police": 9543869,
-      "cities": [
-        {
-          "name": "Akron",
-          "police": 66823550
-        },
-        {
-          "name": "Cleveland",
-          "police": 218370376
-        },
-        {
-          "name": "Columbus",
-          "police": 361418946
-        }
-      ]
-    }
-  },
-  {
-    "Maine": {
-      "police": 20828000,
-      "cities": [
-        {
-          "name": "Portland",
-          "police": 17757540
-        }
-      ]
-    }
-  },
-  {
-    "California": {
-      "cities": [
-        {
-          "name": "San Francisco",
-          "police": 738689486
-        },
-        {
-          "name": "Oakland",
-          "police": 334000000
-        },
-        {
-          "name": "Los Angeles",
-          "police": 1857330549
-        },
-        {
-          "name": "Sacramento",
-          "police": 48155000
-        },
-        {
-          "name": "San Jose",
-          "police": 449177442,
-          "deadline": "06-16-2020"
-        },
-        {
-          "name": "San Diego",
-          "police": 566493840
-        },
-        {
-          "name": "Anaheim",
-          "police": 153800000,
-          "community development": 1000000
-        },
-        {
-          "name": "Antioch",
-          "police": 44000000,
-          "community development": 4000000
-        },
-        {
-          "name": "Belmont",
-          "police": 10052972
-        },
-        {
-          "name": "Berkeley",
-          "police": 74000000,
-          "total": 172093023
-        },
-        {
-          "name": "Chico",
-          "police": 27000000,
-          "community development": 1100000,
-          "total": 55327869
-        },
-        {
-          "name": "Chowchilla",
-          "police": 4142644
-        },
-        {
-          "name": "Claremont",
-          "police": 12496360
-        },
-        {
-          "name": "Daly City",
-          "police": 36691658,
-          "total": 91729145
-        },
-        {
-          "name": "Elcerrito",
-          "police": 12500000
-        },
-        {
-          "name": "Fremont",
-          "police": 93307000
-        },
-        {
-          "name": "Fresno",
-          "police": 184783400
-        },
-        {
-          "name": "Fullerton",
-          "police": 49860929,
-          "total": 106087040
-        },
-        {
-          "name": "Hollister",
-          "police": 26400000,
-          "community development": 8300000,
-          "total": 26400000
-        },
-        {
-          "name": "Lahabra",
-          "police": 20000000,
-          "total": 43956044
-        },
-        {
-          "name": "Lafayette",
-          "police": 6000000
-        },
-        {
-          "name": "LA County",
-          "police": 3500000000
-        },
-        {
-          "name": "Los Banos",
-          "police": 14881614,
-          "fire": 5268311
-        },
-        {
-          "name": "Menlo Park",
-          "police": 17800000,
-          "public safety": 25370000,
-          "community development": 6300000,
-          "total": 84000000
-        },
-        {
-          "name": "Merced",
-          "police": 20700000,
-          "total": 44600000
-        },
-        {
-          "name": "Modesto",
-          "police": 69500000
-        },
-        {
-          "name": "Mountain View",
-          "police": 42000000
-        },
-        {
-          "name": "Grass Valley",
-          "police": 4141770,
-          "total": 13093905
-        },
-        {
-          "name": "Nevada City",
-          "police": 2096760,
-          "total": 4632239
-        },
-        {
-          "name": "Truckee",
-          "police": 6629802,
-          "total": 23177108
-        },
-        {
-          "name": "Oxnard",
-          "police": 62740000,
-          "total": 142590909
-        },
-        {
-          "name": "Palo Alto",
-          "police": 43800000
-        },
-        {
-          "name": "Pasadena",
-          "police": 91000000
-        },
-        {
-          "name": "Petaluma",
+  "Washington": {
+      "state_budgets": {
+          "total": null,
           "police": null
-        },
-        {
-          "name": "Pleasanton",
-          "police": 29674035,
-          "community development": 16000000,
-          "total": 121118510
-        },
-        {
-          "name": "Rancho Cucamonga",
-          "police": 44869070,
-          "community development": 7000000 
-        },
-        {
-          "name": "Redwood City",
-          "police": 48900000,
-          "housing": 480000
-        },
-        {
-          "name": "Richmond",
-          "police": 74990406
-        },
-        {
-          "name": "Ripon",
-          "police": 6557258,
-          "community development": 98971
-        },
-        {
-          "name": "Riverside",
-          "police": 123598355,
-          "total": 280905352
-        },
-        {
-          "name": "Riverside County",
-          "police": null,
-          "public safety": 1500000000
-        },
-        {
-          "name": "Salinas",
-          "police": 447026,
-          "community development": 79471,
-          "total": 993391
-        },
-        {
-          "name": "San Gabriel",
-          "police": 41196514,
-          "total": 108411879
-        },
-        {
-          "name": "San Leandro",
-          "police": 42000485,
-          "community development": 7200083,
-          "housing": 341211,
-          "total": 120001386
-        },
-        {
-          "name": "San Luis Obispo",
-          "police": 36300000,
-          "community development": 9700000,
-          "housing": 1400000,
-          "total": 132000000
-        },
-        {
-          "name": "Santa Barbara",
-          "police": 42000000,
-          "community development": 13000000,
-          "human services": 1050000,
-          "housing": 52500,
-          "total": 131250000
-        },
-        {
-          "name": "Santa Clara County",
-          "police": 895000000
-        },
-        {
-          "name": "Santa Cruz",
-          "police": 30000000
-        },
-        {
-          "name": "Santa Maria",
-          "police": 34000000,
-          "community development": 4000000,
-          "housing": 1200000,
-          "total": 80000000
-        },
-        {
-          "name": "Santa Monica",
-          "police": 97000000,
-          "community development": 2000000
-        },
-        {
-          "name": "Santa Rosa",
-          "police": 67279045,
-          "community development": 4066082, 
-          "total": 436600000
-        },
-        {
-          "name": "South San Francisco",
-          "police": 31935228,
-          "total": 112416313
-        },
-        {
-          "name": "Stockton",
-          "police": 135700000,
-          "community development": 15192261,
-          "total": 759613058
-        },
-        {
-          "name": "Torrance",
-          "police": 85434365,
-          "community development": 9055126, 
-          "total": 329808000
-        },
-        {
-          "name": "Union City",
-          "police": 26015635
-        },
-        {
-          "name": "Upland",
-          "police": 22600000,
-          "total": 41900000
-        },
-        {
-          "name": "Walnut Creek",
-          "police": 52100000,
-          "community development": 14900000,
-          "total": 173666667
-        },
-        {
-          "name": "West Covina",
-          "police": 31163716,
-          "total": 66305779
-        }
-      ]
-    }
+      },
+      "city_budgets": {
+          "Seattle": {
+              "police": 363370000
+          },
+          "Spokane": {
+              "police": 64182339
+          }
+      }
   },
-  {
-    "Georgia": {
-      "police": 137951881,
-      "cities": [
-        {
-          "name": "Atlanta",
-          "police": 248508776
-        }
-      ]
-    }
+  "Ohio": {
+      "state_budgets": {
+          "total": null,
+          "police": 9543869
+      },
+      "city_budgets": {
+          "Akron": {
+              "police": 66823550
+          },
+          "Cleveland": {
+              "police": 218370376
+          },
+          "Columbus": {
+              "police": 361418946
+          }
+      }
   },
-  {
-    "Texas": {
-      "police": 14000000,
-      "cities": [
-        {
-          "name": "Dallas",
-          "police": 509140287
-        },
-        {
-          "name": "Austin",
+  "Maine": {
+      "state_budgets": {
+          "total": null,
+          "police": 20828000
+      },
+      "city_budgets": {
+          "Portland": {
+              "police": 17757540
+          }
+      }
+  },
+  "California": {
+      "state_budgets": {
+          "total": null,
           "police": null
-        }, 
-        {
-          "name": "Houston",
-          "police": 964837483
-        }
-      ]
-    }
+      },
+      "city_budgets": {
+          "San Francisco": {
+              "police": 738689486
+          },
+          "Oakland": {
+              "police": 334000000
+          },
+          "Los Angeles": {
+              "police": 1857330549
+          },
+          "Sacramento": {
+              "police": 48155000
+          },
+          "San Jose": {
+              "police": 449177442,
+              "deadline": "06-16-2020"
+          },
+          "San Diego": {
+              "police": 566493840
+          },
+          "Anaheim": {
+              "police": 153800000,
+              "community development": 1000000
+          },
+          "Antioch": {
+              "police": 44000000,
+              "community development": 4000000
+          },
+          "Belmont": {
+              "police": 10052972
+          },
+          "Berkeley": {
+              "police": 74000000,
+              "total": 172093023
+          },
+          "Chico": {
+              "police": 27000000,
+              "community development": 1100000,
+              "total": 55327869
+          },
+          "Chowchilla": {
+              "police": 4142644
+          },
+          "Claremont": {
+              "police": 12496360
+          },
+          "Daly City": {
+              "police": 36691658,
+              "total": 91729145
+          },
+          "Elcerrito": {
+              "police": 12500000
+          },
+          "Fremont": {
+              "police": 93307000
+          },
+          "Fresno": {
+              "police": 184783400
+          },
+          "Fullerton": {
+              "police": 49860929,
+              "total": 106087040
+          },
+          "Hollister": {
+              "police": 26400000,
+              "community development": 8300000,
+              "total": 26400000
+          },
+          "Lahabra": {
+              "police": 20000000,
+              "total": 43956044
+          },
+          "Lafayette": {
+              "police": 6000000
+          },
+          "LA County": {
+              "police": 3500000000
+          },
+          "Los Banos": {
+              "police": 14881614,
+              "fire": 5268311
+          },
+          "Menlo Park": {
+              "police": 17800000,
+              "public safety": 25370000,
+              "community development": 6300000,
+              "total": 84000000
+          },
+          "Merced": {
+              "police": 20700000,
+              "total": 44600000
+          },
+          "Modesto": {
+              "police": 69500000
+          },
+          "Mountain View": {
+              "police": 42000000
+          },
+          "Grass Valley": {
+              "police": 4141770,
+              "total": 13093905
+          },
+          "Nevada City": {
+              "police": 2096760,
+              "total": 4632239
+          },
+          "Truckee": {
+              "police": 6629802,
+              "total": 23177108
+          },
+          "Oxnard": {
+              "police": 62740000,
+              "total": 142590909
+          },
+          "Palo Alto": {
+              "police": 43800000
+          },
+          "Pasadena": {
+              "police": 91000000
+          },
+          "Petaluma": {
+              "police": null
+          },
+          "Pleasanton": {
+              "police": 29674035,
+              "community development": 16000000,
+              "total": 121118510
+          },
+          "Rancho Cucamonga": {
+              "police": 44869070,
+              "community development": 7000000
+          },
+          "Redwood City": {
+              "police": 48900000,
+              "housing": 480000
+          },
+          "Richmond": {
+              "police": 74990406
+          },
+          "Ripon": {
+              "police": 6557258,
+              "community development": 98971
+          },
+          "Riverside": {
+              "police": 123598355,
+              "total": 280905352
+          },
+          "Riverside County": {
+              "police": null,
+              "public safety": 1500000000
+          },
+          "Salinas": {
+              "police": 447026,
+              "community development": 79471,
+              "total": 993391
+          },
+          "San Gabriel": {
+              "police": 41196514,
+              "total": 108411879
+          },
+          "San Leandro": {
+              "police": 42000485,
+              "community development": 7200083,
+              "housing": 341211,
+              "total": 120001386
+          },
+          "San Luis Obispo": {
+              "police": 36300000,
+              "community development": 9700000,
+              "housing": 1400000,
+              "total": 132000000
+          },
+          "Santa Barbara": {
+              "police": 42000000,
+              "community development": 13000000,
+              "human services": 1050000,
+              "housing": 52500,
+              "total": 131250000
+          },
+          "Santa Clara County": {
+              "police": 895000000
+          },
+          "Santa Cruz": {
+              "police": 30000000
+          },
+          "Santa Maria": {
+              "police": 34000000,
+              "community development": 4000000,
+              "housing": 1200000,
+              "total": 80000000
+          },
+          "Santa Monica": {
+              "police": 97000000,
+              "community development": 2000000
+          },
+          "Santa Rosa": {
+              "police": 67279045,
+              "community development": 4066082,
+              "total": 436600000
+          },
+          "South San Francisco": {
+              "police": 31935228,
+              "total": 112416313
+          },
+          "Stockton": {
+              "police": 135700000,
+              "community development": 15192261,
+              "total": 759613058
+          },
+          "Torrance": {
+              "police": 85434365,
+              "community development": 9055126,
+              "total": 329808000
+          },
+          "Union City": {
+              "police": 26015635
+          },
+          "Upland": {
+              "police": 22600000,
+              "total": 41900000
+          },
+          "Walnut Creek": {
+              "police": 52100000,
+              "community development": 14900000,
+              "total": 173666667
+          },
+          "West Covina": {
+              "police": 31163716,
+              "total": 66305779
+          }
+      }
   },
-  {
-    "Colorado": {
-      "police": 175620856,
-      "cities": [
-        {
-          "name": "Denver",
-          "police": 254232367
-        },
-        {
-          "name": "Boulder",
-          "police": 38629082
-        },
-        {
-          "name": "Aurora",
-          "police": 128772136
-        },
-        {
-          "name": "Fort Collins",
-          "police": 87700000,
-          "community development": 12800000
-        }
-      ]
-    }
+  "Georgia": {
+      "state_budgets": {
+          "total": null,
+          "police": 137951881
+      },
+      "city_budgets": {
+          "Atlanta": {
+              "police": 248508776
+          },
+          "Athens": {
+              "police": 46000000
+          }
+      }
   },
-  {
-    "Illinois": {
-      "police": 731921700,
-      "cities": [
-        {
-          "name": "Chicago",
-          "police": 1778002408
-        }
-      ]
-    }
+  "Texas": {
+      "state_budgets": {
+          "total": null,
+          "police": 14000000
+      },
+      "city_budgets": {
+          "Dallas": {
+              "police": 509140287
+          },
+          "Austin": {
+              "police": null
+          },
+          "Houston": {
+              "police": 964837483
+          }
+      }
   },
-  {
-    "Alabama": {
-      "police": null,
-      "cities": [
-        {
-          "name": "Birmingham",
-          "police": 92775797,
-          "fire": 67814889,
-          "community development": 19959925,
-        }
-      ]
-    }
+  "Colorado": {
+      "state_budgets": {
+          "total": null,
+          "police": 175620856
+      },
+      "city_budgets": {
+          "Denver": {
+              "police": 254232367
+          },
+          "Boulder": {
+              "police": 38629082
+          },
+          "Westminster": {
+              "police": 27000000,
+              "community development": 6500000
+          },
+          "Aurora": {
+              "police": 128772136
+          },
+          "Fort Collins": {
+              "police": 87700000,
+              "community development": 12800000
+          }
+      }
   },
-  {
-    "Arizona": {
-      "police": null,
-      "cities": [
-        {
-          "name": "Phoenix",
-          "police": 721000000
-        },
-        {
-          "name": "Tuscon",
-          "police": 193274430,
-          "parks and recreation": 53126400,
-          "housing and community development": 89091600
-        }
-      ]
-    }
-  } 
-  
-
-  
-]
+  "Illinois": {
+      "state_budgets": {
+          "total": null,
+          "police": 731921700
+      },
+      "city_budgets": {
+          "Chicago": {
+              "police": 1778002408
+          },
+          "Oakpark": {
+              "police": 24877758
+          }
+      }
+  },
+  "Conneticutt": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "New Haven": {
+              "police": 43000000,
+              "public health": 11500000,
+              "youth and recreation": 4800000,
+              "community service administration": 4500000,
+              "department of public works and parks": 15900000
+          }
+      }
+  },
+  "Washington D.C.": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Washington D.C.": {
+              "police": 561500000
+          }
+      }
+  },
+  "Delaware": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Newark": {
+              "police": 15823387,
+              "community and development": 248147,
+              "social services": 30000
+          }
+      }
+  },
+  "Florida": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Gainesville": {
+              "police": 42250000,
+              "housing and urban plannning": 6060000
+          },
+          "Jacksonville": {
+              "police": 478386277
+          },
+          "Miami": {
+              "police": 265621000
+          },
+          "Orlando": {
+              "police": 187104901
+          },
+          "Palm Beach County": {
+              "police": 778000000,
+              "office of equal opportunity": 813582
+          },
+          "St. Petersburg": {
+              "police": 116367838
+          },
+          "Tallahassee": {
+              "police": 59000000
+          },
+          "Tampa": {
+              "police": 162000000
+          }
+      }
+  },
+  "Hawaii": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Honolulu": {
+              "police": 295681922
+          }
+      }
+  },
+  "Idaho": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Boise": {
+              "police": 70006493
+          }
+      }
+  },
+  "Indiana": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Bloomington": {
+              "police": 12000000
+          },
+          "Fort Wayne": {
+              "police": 64700000
+          },
+          "Indianapolis": {
+              "police": 253000000
+          },
+          "Lafayette": {
+              "police": 19000000
+          }
+      }
+  },
+  "Kansas": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Lawrence": {
+              "police": 27000000
+          }
+      }
+  },
+  "Kentucky": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Lexington": {
+              "police": 84000000
+          },
+          "Lousville": {
+              "police": 190000000,
+              "criminal justice commission": 4000000
+          }
+      }
+  },
+  "Lousiana": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Baton Rouge": {
+              "police": 93530380,
+              "departmemt of human development services": 736520,
+              "community development": 8299510
+          },
+          "Jefferson Parish": {
+              "police": 118000000
+          },
+          "Nola": {
+              "police": 194000000
+          }
+      }
+  },
+  "Maryland": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Baltimore": {
+              "police": 545000000
+          },
+          "Hyattsville": {
+              "police": 7972439
+          },
+          "Prince Georges County": {
+              "police": 348000000,
+              "health and human services": 41000000
+          }
+      }
+  },
+  "Michigan": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Detroit": {
+              "police": 328000000,
+              "health department": 41000000
+          },
+          "Grand Rapids": {
+              "police": null
+          },
+          "Royal Oak": {
+              "police": 19818220,
+              "community development": 342990
+          },
+          "South Field": {
+              "police": 26774810
+          }
+      }
+  },
+  "Missouri": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Kansas City": {
+              "police": 270000000
+          }
+      }
+  },
+  "North Carolina": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Charlotte": {
+              "police": 290200000
+          },
+          "Durham": {
+              "police": 70000000
+          },
+          "Greensboro": {
+              "police": 78000000
+          },
+          "Hendersonville": {
+              "police": 5800000,
+              "health and welfare": 282480
+          },
+          "Holly-Springs": {
+              "police": 7861585,
+              "parks and recreation": 6082691
+          },
+          "Raleigh": {
+              "police": 110650573
+          },
+          "Wake County": {
+              "police": 97103645
+          },
+          "Winston-Salem": {
+              "police": 78711550
+          }
+      }
+  },
+  "Nebraska": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Omaha": {
+              "total": 419600000,
+              "police": 159500000
+          }
+      }
+  },
+  "New Hampshire": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Concord": {
+              "total": 108313498,
+              "police": 33577184
+          }
+      }
+  },
+  "New Jersey": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Franklin Township": {
+              "police": 15545855,
+              "commutiy resources": 300000
+          },
+          "Jersey City": {
+              "total": 612000000,
+              "police": 111390803,
+              "fire": 76744661,
+              "health and human services": 5282056
+          },
+          "New Brunswick": {
+              "police": 20181528
+          },
+          "Newark": {
+              "police": 154625090,
+              "health and community wellness": 9407451,
+              "housing": 3504842,
+              "cultural affairs": 359239
+          }
+      }
+  },
+  "Alabama": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Birmingham": {
+              "police": 92775797,
+              "fire": 67814889,
+              "community development": 19959925
+          }
+      }
+  },
+  "Arizona": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Phoenix": {
+              "police": 721000000
+          },
+          "Tuscon": {
+              "police": 193274430,
+              "parks and recreation": 53126400,
+              "housing and community development": 89091600
+          }
+      }
+  }
+}
