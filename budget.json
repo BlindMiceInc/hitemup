@@ -114,7 +114,268 @@
         {
           "name": "San Diego",
           "police": 566493840
- 
+        },
+        {
+          "name": "Anaheim",
+          "police": 153800000,
+          "community development": 1000000
+        },
+        {
+          "name": "Antioch",
+          "police": 44000000,
+          "community development": 4000000
+        },
+        {
+          "name": "Belmont",
+          "police": 10052972
+        },
+        {
+          "name": "Berkeley",
+          "police": 74000000,
+          "total": 172093023
+        },
+        {
+          "name": "Chico",
+          "police": 27000000,
+          "community development": 1100000,
+          "total": 55327869
+        },
+        {
+          "name": "Chowchilla",
+          "police": 4142644
+        },
+        {
+          "name": "Claremont",
+          "police": 12496360
+        },
+        {
+          "name": "Daly City",
+          "police": 36691658,
+          "total": 91729145
+        },
+        {
+          "name": "Elcerrito",
+          "police": 12500000
+        },
+        {
+          "name": "Fremont",
+          "police": 93307000
+        },
+        {
+          "name": "Fresno",
+          "police": 184783400
+        },
+        {
+          "name": "Fullerton",
+          "police": 49860929,
+          "total": 106087040
+        },
+        {
+          "name": "Hollister",
+          "police": 26400000,
+          "community development": 8300000,
+          "total": 26400000
+        },
+        {
+          "name": "Lahabra",
+          "police": 20000000,
+          "total": 43956044
+        },
+        {
+          "name": "Lafayette",
+          "police": 6000000
+        },
+        {
+          "name": "LA County",
+          "police": 3500000000
+        },
+        {
+          "name": "Los Banos",
+          "police": 14881614,
+          "fire": 5268311
+        },
+        {
+          "name": "Menlo Park",
+          "police": 17800000,
+          "public safety": 25370000,
+          "community development": 6300000,
+          "total": 84000000
+        },
+        {
+          "name": "Merced",
+          "police": 20700000,
+          "total": 44600000
+        },
+        {
+          "name": "Modesto",
+          "police": 69500000
+        },
+        {
+          "name": "Mountain View",
+          "police": 42000000
+        },
+        {
+          "name": "Grass Valley",
+          "police": 4141770,
+          "total": 13093905
+        },
+        {
+          "name": "Nevada City",
+          "police": 2096760,
+          "total": 4632239
+        },
+        {
+          "name": "Truckee",
+          "police": 6629802,
+          "total": 23177108
+        },
+        {
+          "name": "Oxnard",
+          "police": 62740000,
+          "total": 142590909
+        },
+        {
+          "name": "Palo Alto",
+          "police": 43800000
+        },
+        {
+          "name": "Pasadena",
+          "police": 91000000
+        },
+        {
+          "name": "Petaluma",
+          "police": null
+        },
+        {
+          "name": "Pleasanton",
+          "police": 29674035,
+          "community development": 16000000,
+          "total": 121118510
+        },
+        {
+          "name": "Rancho Cucamonga",
+          "police": 44869070,
+          "community development": 7000000 
+        },
+        {
+          "name": "Redwood City",
+          "police": 48900000,
+          "housing": 480000
+        },
+        {
+          "name": "Richmond",
+          "police": 74990406
+        },
+        {
+          "name": "Ripon",
+          "police": 6557258,
+          "community development": 98971
+        },
+        {
+          "name": "Riverside",
+          "police": 123598355,
+          "total": 280905352
+        },
+        {
+          "name": "Riverside County",
+          "police": null,
+          "public safety": 1500000000
+        },
+        {
+          "name": "Salinas",
+          "police": 447026,
+          "community development": 79471,
+          "total": 993391
+        },
+        {
+          "name": "San Gabriel",
+          "police": 41196514,
+          "total": 108411879
+        },
+        {
+          "name": "San Leandro",
+          "police": 42000485,
+          "community development": 7200083,
+          "housing": 341211,
+          "total": 120001386
+        },
+        {
+          "name": "San Luis Obispo",
+          "police": 36300000,
+          "community development": 9700000,
+          "housing": 1400000,
+          "total": 132000000
+        },
+        {
+          "name": "Santa Barbara",
+          "police": 42000000,
+          "community development": 13000000,
+          "human services": 1050000,
+          "housing": 52500,
+          "total": 131250000
+        },
+        {
+          "name": "Santa Clara County",
+          "police": 895000000
+        },
+        {
+          "name": "Santa Cruz",
+          "police": 30000000
+        },
+        {
+          "name": "Santa Maria",
+          "police": 34000000,
+          "community development": 4000000,
+          "housing": 1200000,
+          "total": 80000000
+        },
+        {
+          "name": "Santa Monica",
+          "police": 97000000,
+          "community development": 2000000
+        },
+        {
+          "name": "Santa Rosa",
+          "police": 67279045,
+          "community development": 4066082, 
+          "total": 436600000
+        },
+        {
+          "name": "South San Francisco",
+          "police": 31935228,
+          "total": 112416313
+        },
+        {
+          "name": "Stockton",
+          "police": 135700000,
+          "community development": 15192261,
+          "total": 759613058
+        },
+        {
+          "name": "Torrance",
+          "police": 85434365,
+          "community development": 9055126, 
+          "total": 329808000
+        },
+        {
+          "name": "Union City",
+          "police": 26015635
+        },
+        {
+          "name": "Upland",
+          "police": 22600000,
+          "total": 41900000
+        },
+        {
+          "name": "Walnut Creek",
+          "police": 52100000,
+          "community development": 14900000,
+          "total": 173666667
+        },
+        {
+          "name": "West Covina",
+          "police": 31163716,
+          "total": 66305779
         }
       ]
     }
@@ -160,6 +421,15 @@
         {
           "name": "Boulder",
           "police": 38629082
+        },
+        {
+          "name": "Aurora",
+          "police": 128772136
+        },
+        {
+          "name": "Fort Collins",
+          "police": 87700000,
+          "community development": 12800000
         }
       ]
     }
@@ -171,6 +441,36 @@
         {
           "name": "Chicago",
           "police": 1778002408
+        }
+      ]
+    }
+  },
+  {
+    "Alabama": {
+      "police": null,
+      "cities": [
+        {
+          "name": "Birmingham",
+          "police": 92775797,
+          "fire": 67814889,
+          "community development": 19959925,
+        }
+      ]
+    }
+  },
+  {
+    "Arizona": {
+      "police": null,
+      "cities": [
+        {
+          "name": "Phoenix",
+          "police": 721000000
+        },
+        {
+          "name": "Tuscon",
+          "police": 193274430,
+          "parks and recreation": 53126400,
+          "housing and community development": 89091600
         }
       ]
     }
