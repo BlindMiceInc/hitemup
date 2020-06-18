@@ -47,10 +47,18 @@
               "community development": 492622
           },
           "Rochester": {
-              "police": 2368300
+              "police": 95870000,
+              "recreation and youth services": 12408700,
+              "neighborhood and business development": 10988900
           },
           "Albany": {
               "police": 54266365
+          },
+          "Poughkeepsie": {
+              "police": 7600000
+          },
+          "Rockland County": {
+              "police": 73000000
           }
       }
   },
@@ -82,6 +90,24 @@
           },
           "Columbus": {
               "police": 361418946
+          },
+          "Cincinnati": {
+              "police": 152000000
+          },
+          "Cleveland": {
+              "police": 217908375
+          },
+          "Dayton": {
+              "police": 57000000
+          },
+          "Hilliard": {
+              "total": 47000000
+          },
+          "McMinnville": {
+              "police": 9000000
+          },
+          "Toledo": {
+              "police": 87400000
           }
       }
   },
@@ -361,6 +387,15 @@
           },
           "Houston": {
               "police": 964837483
+          },
+          "Fortworth": {
+              "police":267159840
+          },
+          "Irving": {
+              "police": 8000000
+          },
+          "San Antonio": {
+              "police": 820000000
           }
       }
   },
@@ -725,6 +760,214 @@
               "police": 193274430,
               "parks and recreation": 53126400,
               "housing and community development": 89091600
+          }
+      }
+  },
+  "New Mexico": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Albuquerque": {
+              "police": 326905,
+              "community development": 20176,
+              "human and family development": 144411,
+              "community and cultural engagement": 18426
+          },
+          "Las Cruces": {
+              "police": 26944075,
+              "community development": 4653332,
+              "parks and recreation": 12150420,
+              "economic development": 3373728,
+              "quality of life": 6809933
+          },
+          "Santa Fe": {
+              "police": 24680121,
+              "parks and recreation": 851555,
+              "community services": 8900140
+          }
+      }
+  },
+  "Nevada": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Las Vegas": {
+              "police": 156836411,
+              "general": 620825445,
+              "economic development and assistance": 78924412,
+              "health": 8555786,
+              "welfare": 188000,
+              "public works": 322315386,
+              "culture and recreation": 130539037
+          },
+          "Reno": {
+              "public safety dispatch": 8400000,
+              "administration": 25200000,
+              "public works": 6300000,
+              "community development": 2100000,
+              "police": 75600000,
+              "neighborhood services": 4200000,
+              "parks and recreation": 12600000
+          }
+      }
+  },
+  "Oklahoma": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Oklahoma City": {
+              "police": 214107429
+          }
+      }
+  },
+  "Oregon": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Eugene": {
+              "police": 67970000
+          },
+          "Portland": {
+              "police": 245169804
+          },
+          "Yahmill County": {
+              "police": 27376344
+          }
+      }
+  },
+  "Philadelphia": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Lancaster": {
+              "police": 27000000
+          },
+          "Pittsburgh": {
+              "police": 114787000
+          }
+      }
+  },
+  "Rhode Island": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Cranston": {
+            "police": 25578656
+          },
+          "Jamestown": {
+              "police": 1800000
+          },
+          "Newport": {
+              "police": 19000000
+          },
+          "Pawtucket": {
+              "police": 24000000
+          },
+          "Providence": {
+              "police": 90000000
+          }
+      }
+  },
+  "South Carolina": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Charleston": {
+              "police": 53445152
+          },
+          "Greenville": {
+              "police": 96307964
+          }
+      }
+  },
+  "Tennessee": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Knoxville": {
+              "police": 61000000
+          },
+          "Nashville": {
+              "police": 113201500
+          }
+      }
+  },
+  "Virginia": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Alexandira": {
+              "police": 68306285
+          },
+          "Charlottesville": {
+              "police": 18000000
+          },
+          "Fairfax": {
+              "police": 176424490
+          },
+          "Loudoun County": {
+              "police": 109000000
+          },
+          "Norfolk": {
+              "police": 77618592
+          },
+          "Prince William County": {
+              "police": 118237179
+          },
+          "Richmond": {
+              "police": 100000000
+          },
+          "Roanoke County": {
+              "police": 12300000
+          },
+          "Williamsburg": {
+              "police": 5420342
+          }
+      }
+  },
+  "Vermont": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Burlington": {
+              "police": 17400000
+          }
+      }
+  },
+  "Washington": {
+      "state_budgets": {
+          "total": null,
+          "police": null
+      },
+      "city_budgets": {
+          "Olympia": {
+              "police": 20500000
+          },
+          "Pasco": {
+              "police": 35524184
+          },
+          "Seattle": {
+              "police": 363000000
           }
       }
   }
