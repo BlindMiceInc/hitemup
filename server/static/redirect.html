@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta id="email-url" data-url="{{url}}"/>
+    </head>
+    <body>
+        <h3>You are being redirected...</h3>
+        <script>
+            window.onload = () => {
+                setTimeout(() => {
+                    const emailUrl = document.getElementById("email-url").getAttribute("data-url");
+                    window.open(emailUrl);
+                }, 1500);
+            }
+        </script>
+    </body>
+</html>
